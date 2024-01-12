@@ -26,7 +26,6 @@ description: >-
 <center> Email: Jesse.Simpson@nyu.edu </center> 
 <center> Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Email Me </center>
 
-—
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif)
 
 Class Repository: _ADD_
@@ -111,9 +110,9 @@ Silver Apples of the Moon – Morton Subotnick
 
 This class will be taught primarily using a teensy 4.1 with Audio Shield. You are welcome to use a different teensy with/without the audio shield, or alternate microcontroller altogether, with the understanding that this class is structured to support the hardware mentioned above. I will do my best to support alternative platforms.
 
-Write: Write a blog post on your experience with sound, and your interests in building synthesizers. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
+:**Write::** Write a blog post on your experience with sound, and your interests in building synthesizers. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
 
-Optional Prompts:
+**Optional Prompts:**
 On day 1, how do you envision your final project? What do you want to create in this class?
 
 Describe your favorite and least favorite sounds. What do they sound like and how do they make you feel? Imagine that you are describing them to someone who hasn’t heard them before and be as descriptive as possible.
@@ -122,23 +121,23 @@ Who are some musicians/composers who you admire?
 
 Talk about interesting sounds from your daily life. What memories or feelings do you associate with these sounds?
 
-Week 2: Elements of a Synth Voice: Oscillators and Filters
+**Week 2: Elements of a Synth Voice: Oscillators and Filters**
 Teensy hardware
 Intro to Teensy Audio Design Tool and Library
 Oscillators
 Filters
 In-Class Activity: Fabricate a physical instrument using items from the floor that uses the concepts of oscillators and filters
 
-Homework:
+**Homework:**
 
 Watch:
 
-Recommended Listening:
+**Recommended Listening:**
 Geogaddi – Boards of Canada
 
-Make: Construct a design using the Teensy Audio Design Tool that incorporates an oscillator(s), filter, and optionally a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post.
+**Make:** Construct a design using the Teensy Audio Design Tool that incorporates an oscillator(s), filter, and optionally a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post.
 
-Week 3: Elements of a Voice: Modulation (VCAs, LFOs, Envelopes)
+**Week 3: Elements of a Voice: Modulation (VCAs, LFOs, Envelopes)**
 Modulation: Control Signals
 Voltage Controlled Amplifiers
 Low Frequency Oscillators
