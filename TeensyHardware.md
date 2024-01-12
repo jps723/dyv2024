@@ -34,6 +34,6 @@ Insert the Teensy 4.x into a breadboard.
 
 ![The Teensy 4.1 inserted into a breadboard](assets/images/teensy4_1_breadBoard.JPG)
 
-Stack the Audio Shield on top of it. This configuration allows for easy prototyping on a breadboard while not taking up a lot of room, and also leaves the possibility of using the boards in different projects down the road.
+Stack the Audio Shield on top of it. This configuration allows for prototyping on a breadboard while remaining compact, and also leaves the possibility of using the boards in different contexts down the road.
 
 ![The Teensy 4.x audio shield stacked on top of a Teensy 4.1 which is inserted into a breadboard](assets/images/teensy4_1_withAudioBoardStacked.JPG)
