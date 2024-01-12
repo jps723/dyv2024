@@ -1,7 +1,7 @@
 ---
 name: Jesse Simpson
 website: https://jesse-simpson.com
-photo: kevin.jpg
+photo: eurorackSystem.jpeg
 ---
 
 Strange s ounds and noises.
