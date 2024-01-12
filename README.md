@@ -10,7 +10,7 @@ seo:
 
 # Designing Your Voice
 
-![A mostly unpatched 9U eurorack modular synthesizer](https://github.com/jps723/dyv2024/blob/main/assets/images)
+![A mostly unpatched 9U eurorack modular synthesizer](https://github.com/jps723/dyv2024/blob/main/assets/images/eurorackSystem.jpeg)
 
 Designing Your Voice: Synthetic Sounds from Circuits is a class blending three discreet disciplines:
 
