@@ -5,9 +5,9 @@ email: jesse.simpson@nyu.edu
 website: jesse-simpson.com
 photo: eurorackSystem.jpeg
 meta:
-  Office Hours: Somewhere on the internet
+  Office Hours: In-Person - Mon, 12:15-2:15pm || Remote - Email Me
 ---
 
 sleeping or synthing
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Office Hours](#){: .btn .btn-outline }
