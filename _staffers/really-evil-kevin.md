@@ -1,9 +1,9 @@
 ---
-name: Really Evil Kevin
-role: Teaching Assistant
+name: Example Person
+role: Student
 email: me@example.com
 website: https://kevinl.info
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+I love sound design!
