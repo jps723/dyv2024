@@ -33,4 +33,9 @@ schedule:
   - name: Wednesday
   - name: Thursday
   - name: Friday
+    events:
+      - name: Office Hours
+        start: 12:00 PM
+        end: 2:00 PM
+        location: Remote
 ---
