@@ -2,7 +2,7 @@
 name: Jesse Simpson
 role: Instructor
 email: jesse.simpson@nyu.edu
-website: designingyourvoice.com
+website: https://designingyourvoice.com
 photo: eurorackSystem.jpeg
 ---
 
