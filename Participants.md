@@ -16,7 +16,7 @@ description: A list of all participants in the course.
 {% endfor %}
 
 {% assign Student = site.staffers | where: 'role', 'Student' %}
-{% assign Student = teaching_assistants | size %}
+{% assign Student = students | size %}
 {% if Student != 0 %}
 
 ## Students
