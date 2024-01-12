@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Jesse Simpson
 role: Instructor
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: jesse-simpson.com
+photo: eurorackSystem.jpeg
 meta:
   Office Hours: Somewhere on the internet
 ---

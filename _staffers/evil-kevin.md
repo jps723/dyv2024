@@ -1,7 +1,9 @@
 ---
-name: Jesse Simpson
-website: https://jesse-simpson.com
-photo: eurorackSystem.jpeg
+name: Evil Kevin
+role: Teaching Assistant
+email: me@example.com
+website: https://kevinl.info
+photo: kevin.jpg
 ---
 
-Strange s ounds and noises.
+I like teaching Computer Science!
