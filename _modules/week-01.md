@@ -1,5 +1,5 @@
 ---
-title: Intro to Sine Waves
+title:
 ---
 
 Jan 22
