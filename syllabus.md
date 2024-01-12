@@ -28,9 +28,8 @@ description: >-
 
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
-Class Repository: _ADD_
+# **Course Description:**
 
-**Course Description:**
 In this 14-week course, students will explore sound design fundamentals through modular synthesizers, leveraging the capabilities of microcontrollers. Modular synthesizers are a type of electronic musical instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
 
 The curriculum blends the art of sound design with the technical aspects of hardware synthesizer architecture, building skills so that by the end of this course students will have the competence to bring their sonic visions to life in physical form through thoughtful interaction. By harnessing the modular nature of these components, students will work independently, taking into consideration the designs of their peers to ensure seamless compatibility between their devices, resulting in a distinct ‘voice’; a term used to describe a collection of components that define the signal path of a synthesizer.
