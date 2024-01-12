@@ -14,7 +14,7 @@ Solder extra long stacking header pins to your Teensy 4.x board. The solder shou
 
 **Do not snip off the excess pin length.** We are using these extra long pins so that it will be possible to insert the pins into a breadboard, and also stack the audio board on top of the teensy itself.
 
-![The Teensy 4.1 board with unsoldered stacking female header pins lying next to it on a table showing that the pins are longer than standard hearders](https://github.com/jps723/dyv2024/tree/main/assets/images/teensy4_1withPins.jpg)
+![The Teensy 4.1 board with unsoldered stacking female header pins lying next to it on a table showing that the pins are longer than standard hearders](https://github.com/jps723/dyv2024/tree/main/assets/images/teensy4_1withPins.JPG)
 
 [Like these](https://www.adafruit.com/product/2830)
 
@@ -32,4 +32,4 @@ Insert the Teensy 4.x into a breadboard. Stack the Audio Shield on top of it. Th
 
 ![The Teensy 4.1 inserted into a breadboard](https://github.com/jps723/dyv2024/tree/main/assets/images/teensy4_1_breadBoard.JPG)
 
-![The Teensy 4.x audio shield stacked on top of a Teensy 4.1 which is inserted into a breadboard](https://github.com/jps723/dyv2024/tree/main/assets/images/teensy4_1_withAudioBoardStacked.jpg)
+![The Teensy 4.x audio shield stacked on top of a Teensy 4.1 which is inserted into a breadboard](https://github.com/jps723/dyv2024/tree/main/assets/images/teensy4_1_withAudioBoardStacked.JPG)

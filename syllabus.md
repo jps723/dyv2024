@@ -27,7 +27,7 @@ description: >-
 <center> Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Email Me </center>
 
 —
-
+![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif)
 Class Repository: _ADD_
 
 **Course Description:**
