@@ -3,8 +3,8 @@ title: Intro to Sine Waves
 ---
 
 Jan 22
-: [The Best(!) Oscillation](#)
-: [1.1](#)
+: [Introductions]()
+: The Best(!) Oscillation
 
 Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
