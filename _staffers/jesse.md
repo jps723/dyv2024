@@ -8,4 +8,4 @@ photo: eurorackSystem.jpeg
 
 Sleeping or Synthing
 
-[Office Hours](#){: .btn .btn-outline }
+[Office Hours](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg){: .btn .btn-outline }
