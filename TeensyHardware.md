@@ -12,7 +12,7 @@ The first half of this class is taught using the Teensy 4.1 and Teensy 4.x Audio
 
 Solder extra long stacking header pins to your Teensy 4.x board. The solder should be on the bottom side of the board.
 
-# **Do not snip off the excess pin length.**
+**Do not snip off the excess pin length.**
 
 We are using these extra long pins so that it will be possible to insert the pins into a breadboard, and also stack the audio board on top of the teensy itself.
 
