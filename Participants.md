@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Participants
-description: A listing of all the students in the course.
+description: A list of all participants in the course.
 ---
 
 # Participants
