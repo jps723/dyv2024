@@ -1,6 +1,6 @@
 ---
 name: Zi Chen
 role: Student
-website: tbd.com
+website: https://tbd.com
 photo: eurorackSystem.jpeg
 ---
