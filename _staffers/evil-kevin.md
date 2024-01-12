@@ -1,9 +1,7 @@
 ---
-name: Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
+name: Jesse Simpson
+website: https://jesse-simpson.com
 photo: kevin.jpg
 ---
 
-I like teaching Computer Science!
+Strange s ounds and noises.
