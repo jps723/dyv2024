@@ -25,6 +25,9 @@ description: >-
 <center> Instructor: Jesse Simpson </center> 
 <center> Email: Jesse.Simpson@nyu.edu </center> 
 <center> Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Email Me </center>
+<p align="center">
+  <img src="assets/images/waveshapes.gif.jpg" alt="A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude">
+</p>
 
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif)
 
