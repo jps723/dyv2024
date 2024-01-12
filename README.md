@@ -1,16 +1,18 @@
 ---
 layout: home
-title: Just the Class
+title: Designing Your Voice
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Just the Class
+  name: Designing Your Voice
 ---
 
 # Designing Your Voice
 
-Desiging Your Voice: Synthetic Sounds from Circuits is a class blending three discreet disciplines:
+![A mostly unpatched 9U eurorack modular synthesizer](https://github.com/jps723/dyv2024/blob/main/assets/images)
+
+Designing Your Voice: Synthetic Sounds from Circuits is a class blending three discreet disciplines:
 
 - Sound Design
 - Embedded Audio Programming
