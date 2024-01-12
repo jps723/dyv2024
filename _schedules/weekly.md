@@ -29,4 +29,8 @@ schedule:
         start: 12:15 PM
         end: 2:15 PM
         location: ITP Floor
+  - name: Tuesday
+  - name: Wednesday
+  - name: Thursday
+  - name: Friday
 ---
