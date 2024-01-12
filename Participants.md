@@ -21,7 +21,7 @@ description: A list of all participants in the course.
 
 ## Students
 
-{% for staffer in Student %}
+{% for staffer in students %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
