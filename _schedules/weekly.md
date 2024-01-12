@@ -24,7 +24,7 @@ schedule:
       - name: Class
         start: 9:30 AM
         end: 12:00 PM
-        location: rm 408
+        location: 370 Jay St., Rm 408
       - name: Office Hours
         start: 12:15 PM
         end: 2:15 PM
