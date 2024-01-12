@@ -38,6 +38,9 @@ The first half of the course will focus on sound design coding techniques utiliz
 
 Pre-requisites: Intro to Physical Computing or equivalent experience. No sound design/experience in music is required.
 
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
 **Grading System:** ITP has a pass/fail grading system, which will be awarded based on the following breakdown:
 
 Participation & Attendance: 20%  

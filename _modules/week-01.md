@@ -1,9 +1,8 @@
 ---
-title: Topics Week by Week
+title: Course Topics Week by Week
 ---
 
 Jan 22
-: Introductions/Administration
 : Intro to Sine Waves
 
 Jan 29
