@@ -2,10 +2,10 @@
 name: Jesse Simpson
 role: Instructor
 email: jesse.simpson@nyu.edu
-website: jesse-simpson.com
+website: designingyourvoice.com
 photo: eurorackSystem.jpeg
 ---
 
-sleeping or synthing
+Sleeping or Synthing
 
 [Office Hours](#){: .btn .btn-outline }
