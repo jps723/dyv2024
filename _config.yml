@@ -17,8 +17,8 @@ title: Designing Your Voice
 tagline: Synthetic Sounds from Circuits
 description: ITP | NYU
 author: Jesse Simpson
-baseurl: "/just-the-class" # the subpath of your site, e.g. /blog
-url: "https://designingyourvoice.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dyv2024" # the subpath of your site, e.g. /blog
+url: "https://jps723.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
