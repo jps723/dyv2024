@@ -20,7 +20,7 @@ description: >-
 
 ## <center> Designing Your Voice: Synthetic Sounds from Circuits </center>
 
-<center> Meeting Time: 9:30-12pm </center>
+<center> Meeting Time: Mon. 9:30am-12pm </center>
 <center> Location: 370 Jay St, 4th Floor, rm 408, ITP NYU </center> 
 <center> Instructor: Jesse Simpson </center> 
 <center> Email: Jesse.Simpson@nyu.edu </center> 
