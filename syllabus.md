@@ -26,7 +26,7 @@ description: >-
 
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
-**Course Description:**
+# **Course Description:**
 
 In this 14-week course, students will explore sound design fundamentals through modular synthesizers, leveraging the capabilities of microcontrollers. Modular synthesizers are a type of electronic musical instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
 
@@ -51,10 +51,11 @@ Homework is due at the beginning of each class. You are expected to be prepared 
 
 **Class Pledge:** This document isn’t solely a roadmap of what we will accomplish over the course of the semester. It is an agreement between all of us to commit our efforts to seeing that it happens. My pledge as your instructor is to present these materials and do my best to help you succeed in understanding and implementing them in your work. Conversely I expect that you will do your best to learn and showcase your new skills in the project objectives.
 
-Above all, we must respect each other’s opinions, abilities, backgrounds, and presence at all times. Learning in a class setting is a collective experience. Let’s have an awesome semester.
+Above all, we must respect each other’s opinions, abilities, backgrounds, and presence here at all times. Learning in a class setting is a collective experience. Let’s have an awesome semester!
 
-**Learning Objectives:**
-Upon completion of this course you will be able to:
+# **Learning Objectives:**
+
+Upon completion of this course you learn how to:
 
 **Navigate the Teensy Audio Design Tool:** Demonstrate proficiency in using the Teensy Audio Design Tool to create and visualize signal flows, establishing the groundwork for your synthesizer design.
 
