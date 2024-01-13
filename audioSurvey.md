@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Student Presentation Topics
+title: Student Synth Tech Topics
 description: >-
   Course policies and information.
 ---
@@ -10,17 +10,15 @@ Each week a different person will be assigned an audio development platform, syn
 There are LOTS of options out there for sound synthesis. This series is intended to give us all (myself included!) a wider exposure to the tools that exist in this space.
 
 Arduino Libraries (Mozzi|others?)  
-Daisy  
-Bela  
-Axoloti  
-RNBW/Raspberry Pi
-
-Patchblocks  
-OpenWareLab (OWL) Devices
-Dirty Wave M8
-Ornament & Crime
-
-Monome Teletype
-Chompy
-Teensy DX7 Project
+Daisy Microcontrollr  
+Bela Audio Board  
+Ornament & Crime  
+Axoloti Audio Board (Defunct)  
+RNBW/Raspberry Pi  
+Patchblocks (Defunct)  
+OpenWareLab (OWL) Devices  
+Dirty Wave M8  
+Monome Teletype  
+Chompy  
+Teensy DX7 Project  
 VCV Rack
