@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Weekly Audio Survey Presentations
+title: Weekly Student Presentation Topics
 description: >-
   Course policies and information.
 ---
@@ -13,11 +13,13 @@ Arduino Libraries (Mozzi|others?)
 Daisy  
 Bela  
 Axoloti  
-RNBW/Raspberry Pi  
+RNBW/Raspberry Pi
+
 Patchblocks  
 OpenWareLab (OWL) Devices
 Dirty Wave M8
 Ornament & Crime
+
 Monome Teletype
 Chompy
 Teensy DX7 Project
