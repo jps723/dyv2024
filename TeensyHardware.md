@@ -6,7 +6,7 @@ description: Recommended Hardware for this Course
 
 # Hardware & Setup
 
-The first half of this class is taught using the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) and ;[Teensy 4.x Audio Shield](https://www.pjrc.com/store/teensy3_audio.html). I recommend purchasing these boards without pre-soldered pins so that you have more flexibility in how you will use them. Here is my example configuration that is flexible and compact.
+The first half of this class is taught using the [Teensy 4.1](https://www.pjrc.com/store/teensy41.html) and [Teensy 4.x Audio Shield](https://www.pjrc.com/store/teensy3_audio.html). I recommend purchasing these boards without pre-soldered pins so that you have more flexibility in how you will use them. Here is my example configuration that is flexible and compact.
 
 # **Teensy 4.1 with 'Extra Long' Stacking Female Headers**
 

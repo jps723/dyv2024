@@ -9,10 +9,16 @@ Each week a different person will be assigned an audio development platform, syn
 
 There are LOTS of options out there for sound synthesis. This series is intended to give us all (myself included!) a wider exposure to the tools that exist in this space.
 
-Arduino Libraries (Mozzi|others?)
-Daisy
-Bela
-Axoloti
-RNBW/Rapsberry Pi
-Patchblocks
+Arduino Libraries (Mozzi|others?)  
+Daisy  
+Bela  
+Axoloti  
+RNBW/Raspberry Pi  
+Patchblocks  
 OpenWareLab (OWL) Devices
+Dirty Wave M8
+Ornament & Crime
+Monome Teletype
+Chompy
+Teensy DX7 Project
+VCV Rack

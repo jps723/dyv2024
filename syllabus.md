@@ -81,7 +81,7 @@ Upon completion of this course you learn how to:
 
 **Note:** This course requires hardware circuitry/fabrication materials throughout the semester. ITP has lots of things to borrow and also scavenge. If you are unable to financially support your project for this class please see me and we can hopefully find an alternative arrangement.
 
-## <center> Week by Week </center>
+## Week by Week
 
 **Week 1: Introductions, History of Synthesis, and Introduction to Sine Waves**
 
@@ -103,6 +103,7 @@ Oscillators and Filters (Only watch 3:57-5:30) - Berklee Online
 
 **Recommended Listening:**  
 Silver Apples of the Moon – Morton Subotnick
+Switched on Bach - Wendy Carlos https://www.moogmusic.com/media/switched-bach-how-world-met-moog
 
 **Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. I recommend buying your teensy without pins so that you have more flexibility in your design. Mine will be configured in the manner below, with female headers on the teensy to allow for the shield to sit on top of it.
 
