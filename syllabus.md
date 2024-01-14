@@ -102,7 +102,7 @@ Upon completion of this course you will have the resources to:
 - Embedded audio
 - Intro to Sine Waves
 
-**Homework:**
+### Homework:
 
 **Watch:**  
 1970 Moog Synthesizer - Wendy Carlos  
@@ -134,7 +134,7 @@ Oscillators
 Filters
 In-Class Activity: Fabricate a physical instrument using items from the floor that uses the concepts of oscillators and filters
 
-**Homework:**
+### Homework: \*\*
 
 Watch:
 
@@ -169,7 +169,7 @@ Reverb
 Wavefolder
 Bitcrusher
 
-Homework:
+### Homework:
 
 Watch:
 
@@ -189,7 +189,7 @@ Wavetable Synthesis?
 Foley - Field Recording
 Activity: With a partner, use a zoom recorder, or phone, to record samples around the floor. Manipulate them using Audacity and load them into a teensy synth design using either wav2sketch, or the SD Card. Play them for the class.
 
-Homework:
+### Homework:
 
 Watch:
 Recommended Listening:
@@ -200,7 +200,7 @@ Make: Work toward your midterm project and prepare for play testing. Document yo
 
 Week 6: Play Testing / Midterm Work Session
 
-Homework:
+### Homework:
 
 Make: Prepare for your midterm presentation
 
@@ -220,6 +220,8 @@ Power Supply?
 Physical design standards
 External Power
 
+### Homework:
+
 ---
 
 Week 9: Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling  
@@ -227,6 +229,8 @@ Control Voltage Out
 Gates - Triggering External Gear  
 Digital to Analog Converters  
 Signal Scaling Down to Teensy Standards
+
+### Homework:
 
 ---
 
@@ -236,11 +240,15 @@ Audio-In
 Control Voltage In  
 Effects Pedals
 
+### Homework:
+
 ---
 
 Week 11: Fabrication + Power Planning  
 Fabricating on Perfboard  
 Designing/Fabricating a Faceplate
+
+### Homework:
 
 ---
 
@@ -250,9 +258,13 @@ Spring Delay
 Analog VCA  
 Vactrols
 
+### Homework:
+
 ---
 
 Week 13: Play testing / Work Session
+
+### Homework:
 
 ---
 
