@@ -13,6 +13,10 @@ There are LOTS of options out there for sound synthesis. This series is intended
 
 # Topics
 
+**Microcontroller**{: .label .label-purple }
+**Teensy Project**{: .label .label-pink }
+**Eurorack**{: .label .label-yellow }
+
 Jan 29: Arduino Libraries (Mozzi, or others?)  
 Feb 5: Electrosmith Daisy **\***{: .label .label-purple }  
 Feb 12: Bela Audio Board **\***{: .label .label-purple }  
@@ -30,10 +34,6 @@ Teensy DX7 Project **\***{: .label .label-pink }
 VCV Rack  
 Ciatlon Barde **\***{: .label .label-yellow }  
 Lorre Mille **\***{: .label .label-yellow }
-
-**Microcontroller**{: .label .label-purple }
-**Teensy Project**{: .label .label-pink }
-**Eurorack**{: .label .label-yellow }
 
 Oct 9
 : [Runtime Analysis](#)
