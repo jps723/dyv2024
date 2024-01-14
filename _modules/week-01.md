@@ -15,7 +15,7 @@ Feb 12
 : Elements of a Voice: Basic Effects
 
 Feb 19
-: **President's Day**{: .label .label-green} President's Day
+: **No Class: President's Day**{: .label .label-green} President's Day
 
 Feb 26
 : Intermediate Sound Design / Sampling
@@ -24,10 +24,10 @@ Mar 4
 : Continued intermediate sound design / Play testing / Work Session
 
 Mar 11
-: **Midterm**{: .label .label-blue} Midterm Presentations
+: **Midterm Presentations**{: .label .label-blue}
 
 Mar 18
-: **Spring Break**{: .label .label-green} Spring Break
+: **No Class: Spring Break**{: .label .label-green}
 
 Mar 25
 : MIDI / Music Theory / Eurorack
@@ -48,7 +48,7 @@ Apr 29
 : Play testing / Work Session
 
 May 6
-: **Final**{: .label .label-blue} Final Presentations
+: **Final Presentations**{: .label .label-blue} Final Presentations
 
 <!-- Sep 29
 : **Section**{: .label .label-purple }[Intro to Java](#)
