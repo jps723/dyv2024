@@ -55,7 +55,7 @@ Above all, we must respect each other’s opinions, abilities, backgrounds, and 
 
 # **Learning Objectives:**
 
-Upon completion of this course you will have learned how to:
+Upon completion of this course you will have the resources to:
 
 **Navigate the Teensy Audio Design Tool:** Demonstrate proficiency in using the Teensy Audio Design Tool to create and visualize signal flows, establishing the groundwork for your synthesizer design.
 

@@ -2,8 +2,6 @@
 name: Example Person
 role: Student
 email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+website: https://example.com
+photo: eurorackSystem.jpg
 ---
-
-I love sound design!
