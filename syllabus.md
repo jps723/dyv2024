@@ -102,7 +102,7 @@ Upon completion of this course you will have learned how to:
 Oscillators and Filters (Only watch 3:57-5:30) - Berklee Online
 
 **Recommended Listening:**  
-Silver Apples of the Moon – Morton Subotnick
+Silver Apples of the Moon – Morton Subotnick  
 Switched on Bach - Wendy Carlos https://www.moogmusic.com/media/switched-bach-how-world-met-moog
 
 **Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. I recommend buying your teensy without pins so that you have more flexibility in your design. Mine will be configured in the manner below, with female headers on the teensy to allow for the shield to sit on top of it.

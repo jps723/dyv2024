@@ -26,6 +26,7 @@ schedule:
         start: 9:30 AM
         end: 12:00 PM
         location: 370 Jay St., Rm 408
+        link: https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg
       - name: Office Hours
         start: 12:15 PM
         end: 2:15 PM

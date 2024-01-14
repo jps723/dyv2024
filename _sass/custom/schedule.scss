@@ -91,6 +91,9 @@
     .location {
       @extend .fs-2;
     }
+    .link {
+      @extend .fs-2;
+    }
 
     &.lecture {
       background-color: $grey-dk-000;
