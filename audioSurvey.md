@@ -11,6 +11,9 @@ There are LOTS of options out there for sound synthesis. This series is intended
 
 # Topics
 
+Feb 12
+: Elements of a Voice: Basic Effects
+: Jesse
 Jan 29: Arduino Libraries (Mozzi, or others?)  
 Feb 5: Daisy Microcontroller  
 Feb 12: Bela Audio Board  

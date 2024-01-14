@@ -30,7 +30,7 @@ Mar 18
 : **Spring Break**{: .label .label-green} Spring Break
 
 Mar 25
-: Intro to MIDI / Music Theory / Eurorack
+: MIDI / Music Theory / Eurorack
 
 Apr 1
 : Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling
