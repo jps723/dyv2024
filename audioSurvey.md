@@ -5,7 +5,9 @@ description: >-
   Course policies and information.
 ---
 
-Each week a different person will be assigned an audio development platform, synthesizer format, etc. that we will **not** work with in class, to research and present on for 5-7 minutes at the beginning of each session. Slideshows, reference videos, and/or demos are all acceptable and great. Present however you think makes sense.
+# Weekly Presentations
+
+Each week a different person will be assigned an audio development platform, synthesizer format, etc. that we will **not** work with in class, to research and present on for 5-7 minutes at the beginning of each session. Slideshows, reference videos, and/or demos are all acceptable and great. Present however you think makes sense. Each student will present once throughout the semester
 
 There are LOTS of options out there for sound synthesis. This series is intended to give us all (myself included!) a wider exposure to the tools that exist in this space.
 
