@@ -73,11 +73,15 @@ Upon completion of this course you will have the resources to:
 
 **Complete a Eurorack Module:** Produce at least one eurorack module, creating a tangible component of a larger modular synthesizer system.
 
+---
+
 **Key Course Dates:**
 2/19: No class due to President’s Day
 3/11: Midterm Presentations
 3/18: No class due to Spring Break
 5/6: Final Presentations
+
+---
 
 **Note:** This course requires hardware circuitry/fabrication materials throughout the semester. ITP has lots of things to borrow and also scavenge. If you are unable to financially support your project for this class please see me and we can hopefully find an alternative arrangement.
 
