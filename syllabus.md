@@ -49,7 +49,9 @@ Final Project: 30%
 
 Homework is due at the beginning of each class. You are expected to be prepared to present on the development of your work and to keep a blog.
 
-**Class Pledge:** This document isn’t solely a roadmap of what we will accomplish over the course of the semester. It is an agreement between all of us to commit our efforts to seeing that it happens. My pledge as your instructor is to present these materials and do my best to help you succeed in understanding and implementing them in your work. Conversely I expect that you will do your best to learn and showcase your new skills in the project objectives.
+# **Class Pledge:**
+
+This document isn’t solely a roadmap of what we will accomplish over the course of the semester. It is an agreement between all of us to commit our efforts to seeing that it happens. My pledge as your instructor is to present these materials and do my best to help you succeed in understanding and implementing them in your work. Conversely I expect that you will do your best to learn and showcase your new skills in the project objectives.
 
 Above all, we must respect each other’s opinions, abilities, backgrounds, and presence here at all times. Learning in a class setting is a collective experience. Let’s have an awesome semester!
 
@@ -75,10 +77,11 @@ Upon completion of this course you will have the resources to:
 
 ---
 
-**Key Course Dates:**
-2/19: No class due to President’s Day
-3/11: Midterm Presentations
-3/18: No class due to Spring Break
+## **Key Course Dates:**
+
+2/19: No class due to President’s Day  
+3/11: Midterm Presentations  
+3/18: No class due to Spring Break  
 5/6: Final Presentations
 
 ---

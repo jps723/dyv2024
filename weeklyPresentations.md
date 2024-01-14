@@ -14,27 +14,27 @@ There are LOTS of options out there for sound synthesis. This series is intended
 # Topics
 
 **Development Board**{: .label .label-purple }
-**Teensy Project**{: .label .label-pink }
+**Teensy Project**{: .label .label-red }
 **Eurorack**{: .label .label-yellow }
-**Product/Tool**{: .label .label-red }
+**Product/Tool**{: .label .label-white }
 
 Jan 29: Arduino Libraries (Mozzi, or others?)  
-**\***{: .label .label-purple } Feb 5: Electrosmith Daisy  
-**\***{: .label .label-purple } Feb 12: Bela Audio Board  
-**\***{: .label .label-pink } **\***{: .label .label-yellow } Feb 26: Ornament & Crime  
-**\***{: .label .label-purple } **\***{: .label .label-red } Mar 4: Axoloti Audio Board (Defunct)  
+Feb 5: Electrosmith Daisy **\***{: .label .label-purple }  
+Feb 12: Bela Audio Board **\***{: .label .label-purple }  
+Feb 26: Ornament & Crime **\***{: .label .label-red } **\***{: .label .label-yellow }  
+Mar 4: Axoloti Audio Board (Defunct) **\***{: .label .label-purple } **\***{: .label .label-white }
 Mar 25: RNBW/Raspberry Pi  
-**\***{: .label .label-orange } Apr 1: Patchblocks (Defunct)  
-**\***{: .label .label-orange } Apr 8: OpenWareLab (OWL) Devices  
-**\***{: .label .label-pink } Apr 15: Dirty Wave M8  
-**\***{: .label .label-pink } Apr 22: Chompy  
-**\***{: .label .label-yellow } Apr 29: Monome Teletype
+Apr 1: Patchblocks (Defunct) **\***{: .label .label-white }  
+Apr 8: OpenWareLab (OWL) Devices **\***{: .label .label-white }  
+Apr 15: Dirty Wave M8 **\***{: .label .label-red }  
+Apr 22: Chompy **\***{: .label .label-red }  
+Apr 29: Monome Teletype **\***{: .label .label-yellow }
 
 Alternatives:  
-**\***{: .label .label-pink } Teensy DX7 Project  
+Teensy DX7 Project **\***{: .label .label-red }  
 VCV Rack  
-**\***{: .label .label-yellow } Ciatlon Barde  
-**\***{: .label .label-yellow } Lorre Mille
+Ciatlon Barde **\***{: .label .label-yellow }  
+Lorre Mille **\***{: .label .label-yellow }
 
 Oct 9
 : [Runtime Analysis](#)
