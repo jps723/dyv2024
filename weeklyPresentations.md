@@ -16,7 +16,7 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Development Board**{: .label .label-purple }
 **Teensy Project**{: .label .label-pink }
 **Eurorack**{: .label .label-yellow }
-**Product/Tool**{: .label .label-orange }
+**Product/Tool**{: .label .label-red }
 
 Jan 29: Arduino Libraries (Mozzi, or others?)  
 Feb 5: Electrosmith Daisy **\***{: .label .label-purple }  
