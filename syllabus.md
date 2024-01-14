@@ -222,32 +222,32 @@ External Power
 
 ---
 
-Week 9: Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling
-Control Voltage Out
-Gates - Triggering External Gear
-Digital to Analog Converters
+Week 9: Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling  
+Control Voltage Out  
+Gates - Triggering External Gear  
+Digital to Analog Converters  
 Signal Scaling Down to Teensy Standards
 
 ---
 
-Week 10: Eurorack Inputs - Audio in / CV in / Effects pedals / Signal Scaling
-Signal Scaling Up to Eurorack Standards
-Audio-In
-Control Voltage In
+Week 10: Eurorack Inputs - Audio in / CV in / Effects pedals / Signal Scaling  
+Signal Scaling Up to Eurorack Standards  
+Audio-In  
+Control Voltage In  
 Effects Pedals
 
 ---
 
-Week 11: Fabrication + Power Planning
-Fabricating on Perfboard
+Week 11: Fabrication + Power Planning  
+Fabricating on Perfboard  
 Designing/Fabricating a Faceplate
 
 ---
 
-Week 12: Analog Effects & Utilities
-RC Filter
-Spring Delay
-Analog VCA
+Week 12: Analog Effects & Utilities  
+RC Filter  
+Spring Delay  
+Analog VCA  
 Vactrols
 
 ---
