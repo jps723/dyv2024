@@ -85,18 +85,18 @@ Upon completion of this course you will have the resources to:
 
 **Note:** This course requires hardware circuitry/fabrication materials throughout the semester. ITP has lots of things to borrow and also scavenge. If you are unable to financially support your project for this class please see me and we can hopefully find an alternative arrangement.
 
-## Week by Week
+# Week by Week
 
 **Week 1: Introductions, History of Synthesis, and Introduction to Sine Waves**
 
 - Syllabus review
 - Synthesis Overview
-  - History of Synthesis
-  - Hardware synthesizers
-  - Modular Synthesis
-  - Analog vs. Digital Synthesis
-  - Software Synthesizers
-  - Embedded audio
+- History of Synthesis
+- Hardware synthesizers
+- Modular Synthesis
+- Analog vs. Digital Synthesis
+- Software Synthesizers
+- Embedded audio
 - Intro to Sine Waves
 
 **Homework:**
@@ -109,11 +109,7 @@ Oscillators and Filters (Only watch 3:57-5:30) - Berklee Online
 Silver Apples of the Moon – Morton Subotnick  
 Switched on Bach - Wendy Carlos https://www.moogmusic.com/media/switched-bach-how-world-met-moog
 
-**Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. I recommend buying your teensy without pins so that you have more flexibility in your design. Mine will be configured in the manner below, with female headers on the teensy to allow for the shield to sit on top of it.
-
-{INSERT PHOTO}
-
-This class will be taught primarily using a teensy 4.1 with Audio Shield. You are welcome to use a different teensy with/without the audio shield, or alternate microcontroller altogether, with the understanding that this class is structured to support the hardware mentioned above. I will do my best to support alternative platforms.
+**Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. See the [Teensy Hardware & Setup](https://designingyourvoice.com/TeensyHardware/) page for my recommended hardware setup for this class.
 
 :**Write::** Write a blog post on your experience with sound, and your interests in building synthesizers. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
 
@@ -125,6 +121,8 @@ Describe your favorite and least favorite sounds. What do they sound like and ho
 Who are some musicians/composers who you admire?
 
 Talk about interesting sounds from your daily life. What memories or feelings do you associate with these sounds?
+
+---
 
 **Week 2: Elements of a Synth Voice: Oscillators and Filters**
 Teensy hardware
@@ -142,6 +140,8 @@ Geogaddi – Boards of Canada
 
 **Make:** Construct a design using the Teensy Audio Design Tool that incorporates an oscillator(s), filter, and optionally a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post.
 
+---
+
 **Week 3: Elements of a Voice: Modulation (VCAs, LFOs, Envelopes)**
 Modulation: Control Signals
 Voltage Controlled Amplifiers
@@ -157,6 +157,8 @@ Recommended Listening:
 Guardian Suite - Lightbath
 
 Make: Build off of your sketch from last week to incorporate an envelope, VCA, and LFO. Build upon your breadboard circuit to control elements of them using sensors. Document your work using a blog post.
+
+---
 
 Week 4: Elements of a Voice: Basic Effects
 Delay
@@ -176,6 +178,8 @@ Everything Ends Here - Blind Old Freak (Alessandro Cortini) & Don Buchla
 
 Make: Build off of your sketch from last week to incorporate an effect, or series of effects. Explore the ones that we didn’t look at in class; Experiment with changing the order that you connect them. How does that change the resulting voice? Document your work using a blog post. Sketch out ideas for your midterm (and/or final) project. What are you hoping to achieve and how will it help to extend your musical self expression?
 
+---
+
 Week 5: Intermediate Sound design / Sampling
 Sampling
 Wavetable Synthesis?
@@ -189,17 +193,19 @@ Recommended Listening:
 Emergence - Shuta Hasunuma
 Make: Work toward your midterm project and prepare for play testing. Document your progress in a blog post.
 
+---
+
 Week 6: Play Testing / Midterm Work Session
 
 Homework:
 
 Make: Prepare for your midterm presentation
 
+---
+
 Week 7: Midterm Presentations
 
-Homework:
-
-Think: Enjoy Spring Break! Think about the directions you can take your project in for weeks 8-14!
+---
 
 Week 8: MIDI / Intro to (Western) Music Theory / Intro to Eurorack
 Intro to MIDI
@@ -211,20 +217,29 @@ Power Supply?
 Physical design standards
 External Power
 
+---
+
 Week 9: Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling
 Control Voltage Out
 Gates - Triggering External Gear
 Digital to Analog Converters
 Signal Scaling Down to Teensy Standards
+
+---
+
 Week 10: Eurorack Inputs - Audio in / CV in / Effects pedals / Signal Scaling
 Signal Scaling Up to Eurorack Standards
 Audio-In
 Control Voltage In
 Effects Pedals
 
+---
+
 Week 11: Fabrication + Power Planning
 Fabricating on Perfboard
 Designing/Fabricating a Faceplate
+
+---
 
 Week 12: Analog Effects & Utilities
 RC Filter
@@ -232,25 +247,32 @@ Spring Delay
 Analog VCA
 Vactrols
 
+---
+
 Week 13: Play testing / Work Session
+
+---
+
 Week 14: Final Presentations
 
-ITP Code of Conduct
+---
+
+# ITP Code of Conduct
 
 As with all activities at ITP and IMA, we’ll be following the ITP/IMA code of conduct. Please consider it as a guide for projects you might make or see in this class, and how we behave with respect to each other in class.
 
-Statement of Academic Integrity
+# Statement of Academic Integrity
 
 Plagiarism is presenting someone else’s work as though it were your own. More specifically, plagiarism is to present as your own: A sequence of words or programming code or images quoted without quotation marks from another writer or a paraphrased passage from another writer’s work or facts, ideas or images composed by someone else.
 
-Statement of Principle
+# Statement of Principle
 
 The core of the educational experience at the Tisch School of the Arts is the creation of original academic and artistic work by students for the critical review of faculty members. It is therefore of the utmost importance that students at all times provide their instructors with an accurate sense of their current abilities and knowledge in order to receive appropriate constructive criticism and advice. Any attempt to evade that essential, transparent transaction between instructor and student through plagiarism or cheating is educationally self-defeating and a grave violation of Tisch School of the Arts community standards. For all the details on plagiarism, please refer to page 10 of the Tisch School of the Arts, Policies and Procedures Handbook.
 
-Statement on Accessibility
+# Statement on Accessibility
 
 Please feel free to make suggestions to your instructor about ways in which this class could become more accessible to you. Academic accommodations are available for students with documented disabilities. Please contact the Moses Center for Students with Disabilities at 212 998-4980 for further information.
 
-Statement on Counseling and Wellness
+# Statement on Counseling and Wellness
 
 Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange 212-443-9999. Also, all students who may require an academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center 212-998-4980. Please let your instructor know if you need help connecting to these resources.
