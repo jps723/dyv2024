@@ -16,9 +16,9 @@ description: >-
 
 ---
 
-![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto" width="300px"}
-
 ## <center> Designing Your Voice: Synthetic Sounds from Circuits </center>
+
+![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto" width="300px"}
 
 <center> Meeting Time: Mon. 9:30am-12pm </center>
 <center> Location: 370 Jay St, 4th Floor, rm 408, ITP NYU </center> 
