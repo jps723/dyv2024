@@ -67,11 +67,11 @@ Upon completion of this course you will have the resources to:
 
 **Interface with External Systems:** Communicate with external software and hardware.
 
-**Use Analog Components for Signal Processing:** Utilize analog components to create simple filters, and utility circuits to further manipulate and shape audio signals.
+**Use Analog Components for Signal Processing:** Utilize analog components to create simple filters and utility circuits to further manipulate and shape audio signals.
 
-**Design Faceplates:** Develop your own faceplate for your module(s).
+**Design Faceplates:** Develop your own faceplate for your designs.
 
-**Complete a Eurorack Module:** Produce at least one eurorack module, creating a tangible component of a larger modular synthesizer system.
+**Complete a Eurorack Module:** Produce a eurorack module, creating a tangible component of a larger modular synthesizer system.
 
 ---
 
