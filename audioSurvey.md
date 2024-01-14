@@ -1,8 +1,5 @@
 ---
-layout: page
 title: Weekly Presentations
-description: >-
-  Course policies and information.
 ---
 
 Each week a different person will be assigned an audio development platform, synthesizer format, etc. that we will **not** work with in class, to research and present on for 5-7 minutes at the beginning of each session. Slideshows, reference videos, and/or demos are all acceptable and great. Present however you think makes sense.
