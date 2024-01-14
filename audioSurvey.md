@@ -30,3 +30,8 @@ Teensy DX7 Project **Teensy Project**{: .label .label-pink }
 VCV Rack  
 Ciatlon Barde **Eurorack**{: .label .label-yellow }  
 Lorre Mille **Eurorack**{: .label .label-yellow }
+
+Oct 9
+: [Runtime Analysis](#)
+: [8.1](#), [8.2](#), [8.3](#), [8.4](#)
+: **HW 2 due**{: .label .label-red }

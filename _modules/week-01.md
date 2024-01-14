@@ -15,7 +15,7 @@ Feb 12
 : Elements of a Voice: Basic Effects
 
 Feb 19
-: **No Class: President's Day**{: .label .label-green} President's Day
+: **No Class:**{: .label .label-green} President's Day
 
 Feb 26
 : Intermediate Sound Design / Sampling
@@ -27,7 +27,7 @@ Mar 11
 : **Midterm Presentations**{: .label .label-blue}
 
 Mar 18
-: **No Class: Spring Break**{: .label .label-green}
+: **No Class:**{: .label .label-green} Spring Break
 
 Mar 25
 : MIDI / Music Theory / Eurorack
