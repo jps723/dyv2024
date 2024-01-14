@@ -21,4 +21,4 @@ Image by Paul Anthony on [wikipedia](https://en.wikipedia.org/wiki/Eurorack#/med
 
 We explore sound synthesis on Teensy microcontrollers and ultimately craft hardware to create a patchable synthesizer. All three of these subject matters are fundamental to the class, with sound design lying as the foundation and audio programming and hardware development serving as tools for exploring it.
 
-### 🔉
+🔉

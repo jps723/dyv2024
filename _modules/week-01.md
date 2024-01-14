@@ -1,5 +1,5 @@
 ---
-title: Course Topics Week by Week
+title: Course Topics by Week
 ---
 
 Jan 22
