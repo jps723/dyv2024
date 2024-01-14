@@ -11,8 +11,8 @@ There are LOTS of options out there for sound synthesis. This series is intended
 
 # Topics
 
-Jan 29: Arduino Libraries (Mozzi, or others?)
-Feb 5: Daisy Microcontroller **Microcontroller**{: .label .label-purple }  
+Jan 29: Arduino Libraries (Mozzi, or others?)  
+Feb 5: Electrosmith Daisy **Microcontroller**{: .label .label-purple }  
 Feb 12: Bela Audio Board **Microcontroller**{: .label .label-purple }  
 Feb 26: Ornament & Crime **Teensy Project**{: .label .label-pink } **Eurorack**{: .label .label-yellow }
 Mar 4: Axoloti Audio Board (Defunct) **Microcontroller**{: .label .label-purple }  
