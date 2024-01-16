@@ -4,9 +4,13 @@ title: Students
 description: A list of all participants in the course.
 ---
 
-# Studentds
+# Students
 
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
+
+{% assign students = site.staffers | where: 'role', 'Student' %}
+{% assign num_students = students | size %}
+{% if num_students != 0 %}
 
 ## Students
 
@@ -21,7 +25,3 @@ description: A list of all participants in the course.
 {% for staffer in instructors %}
 {{ staffer }}
 {% endfor %}
-
-{% assign students = site.staffers | where: 'role', 'Student' %}
-{% assign num_students = students | size %}
-{% if num_students != 0 %}
