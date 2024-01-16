@@ -13,12 +13,12 @@ There are LOTS of options out there for sound synthesis. This series is intended
 
 # Topics
 
-**Development Board**{: .label .label-purple }
+<!-- **Development Board**{: .label .label-purple }
 **Teensy Project**{: .label .label-red }
 **Eurorack**{: .label .label-yellow }
-**Product/Tool**{: .label .label-green }
+**Product/Tool**{: .label .label-green } -->
 
-Jan 29: Arduino Libraries (Mozzi, or others?)  
+Jan 29: Arduino Libraries (Mozzi, or others?) | Jesse Simpson
 Feb 5: Electrosmith Daisy
 Feb 12: Bela Audio Board
 Feb 26: Ornament & Crime
@@ -35,8 +35,3 @@ Teensy DX7 Project
 VCV Rack  
 Ciatlon Barde  
 Lorre Mille
-
-Oct 9
-: [Runtime Analysis](#)
-: [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
