@@ -30,7 +30,9 @@ Apr 15: Dirty Wave M8
 Apr 22: Chompy  
 Apr 29: Monome Teletype
 
-### Alternatives:
+# Alternative Topics:
+
+### If you are excited to share a different embedded audio project that you know of, or you'd prefer something from the list below, that's fine too. Anything goes!
 
 Teensy DX7 Project  
 VCV Rack  
