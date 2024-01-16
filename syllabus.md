@@ -5,17 +5,6 @@ description: >-
   Course policies and information.
 ---
 
-<!-- {:.no_toc} -->
-
-<!-- ## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-   {:toc} -->
-
----
-
 ## <center> Designing Your Voice: Synthetic Sounds from Circuits </center>
 
 <center> Meeting Time: Mon. 9:30am-12pm </center>
@@ -25,6 +14,12 @@ description: >-
 <center> Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Fri, 12:00-2:00pm </center>
 
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
+
+---
+
+### <center>**This is a live document and will be updated over the course of the semester**</center>
+
+---
 
 # **Course Description:**
 
