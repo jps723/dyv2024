@@ -19,22 +19,22 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Product/Tool**{: .label .label-green }
 
 Jan 29: Arduino Libraries (Mozzi, or others?)  
-Feb 5: Electrosmith Daisy **\***{: .label .label-purple }  
-Feb 12: Bela Audio Board **\***{: .label .label-purple }  
-Feb 26: Ornament & Crime **\***{: .label .label-red } **\***{: .label .label-yellow }  
-Mar 4: Axoloti Audio Board (Defunct) **\***{: .label .label-purple } **\***{: .label .label-green }  
+Feb 5: Electrosmith Daisy
+Feb 12: Bela Audio Board
+Feb 26: Ornament & Crime
+Mar 4: Axoloti Audio Board (Defunct)
 Mar 25: RNBW/Raspberry Pi  
-Apr 1: Patchblocks (Defunct) **\***{: .label .label-green }  
-Apr 8: OpenWareLab (OWL) Devices **\***{: .label .label-green }  
-Apr 15: Dirty Wave M8 **\***{: .label .label-red }  
-Apr 22: Chompy **\***{: .label .label-red }  
-Apr 29: Monome Teletype **\***{: .label .label-yellow }
+Apr 1: Patchblocks (Defunct)
+Apr 8: OpenWareLab (OWL) Devices
+Apr 15: Dirty Wave M8
+Apr 22: Chompy
+Apr 29: Monome Teletype
 
 Alternatives:  
-Teensy DX7 Project **\***{: .label .label-red }  
+Teensy DX7 Project  
 VCV Rack  
-Ciatlon Barde **\***{: .label .label-yellow }  
-Lorre Mille **\***{: .label .label-yellow }
+Ciatlon Barde  
+Lorre Mille
 
 Oct 9
 : [Runtime Analysis](#)
