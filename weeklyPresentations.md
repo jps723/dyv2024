@@ -32,7 +32,7 @@ Apr 29: Monome Teletype
 
 # Alternative Topics:
 
-### If you are excited to share a different embedded audio project that you know of, or you'd prefer something from the list below, that's fine too. Anything goes!
+### If you are excited to share a different embedded audio project, or you'd prefer something from the list below, that's fine too.
 
 Teensy DX7 Project  
 VCV Rack  
