@@ -109,7 +109,7 @@ Upon completion of this course you will have the resources to:
 ### Homework:
 
 **Watch:**  
-1970 Moog Synthesizer - Wendy Carlos  
+[MIT's Wizard of Synthesis](https://www.youtube.com/watch?v=cTCVm-Eo1F0&)
 Oscillators and Filters (Only watch 3:57-5:30) - Berklee Online
 
 **Recommended Listening:**  

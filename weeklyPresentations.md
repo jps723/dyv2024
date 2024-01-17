@@ -18,7 +18,7 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Eurorack**{: .label .label-yellow }
 **Product/Tool**{: .label .label-green } -->
 
-Jan 29: Arduino Libraries (Mozzi, or others?) || Jesse Simpson  
+Jan 29: Arduino Libraries (Mozzi, or others?)|Jesse Simpson  
 Feb 5: Electrosmith Daisy  
 Feb 12: Bela Audio Board  
 Feb 26: Ornament & Crime  
