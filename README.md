@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Designing Your Voice: _Synthetic Sounds from Circuits_
+title: Designing Your Voice - Synthetic Sounds from Circuits
 nav_exclude: true
 permalink: /:path/
 seo:
