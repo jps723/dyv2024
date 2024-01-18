@@ -19,4 +19,4 @@ Image by Paul Anthony on [wikipedia](https://en.wikipedia.org/wiki/Eurorack#/med
 - Embedded Audio Programming
 - Modular Hardware Development
 
-Exploring sound synthesis on Teensy microcontrollers and ultimately patchable synthesizer components, all three of these subject matters are fundamental to the class. Sound design lies as the foundation with audio programming and hardware development serving as tools for exploring it.
+All three of these subject matters are fundamental to the class. Sound design lies as the foundation with audio programming and hardware development serving as tools for exploring it.
