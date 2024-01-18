@@ -32,7 +32,7 @@ Apr 29: Monome Teletype
 
 # Alternative Topics:
 
-If you are excited to share a different embedded audio project, or you'd prefer something from the list below, that's fine too.
+Feel free to choo
 
 Teensy DX7 Project  
 Arduino Boards for Synthesis  
