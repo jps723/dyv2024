@@ -18,7 +18,7 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Eurorack**{: .label .label-yellow }
 **Product/Tool**{: .label .label-green } -->
 
-Jan 29: VCV Rack
+Jan 29: VCV Rack  
 Feb 5: Electrosmith Daisy  
 Feb 12: Bela Audio Board  
 Feb 26: RNBW/Raspberry Pi

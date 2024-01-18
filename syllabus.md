@@ -32,13 +32,13 @@ description: >-
 
 # **Course Description:**
 
-In this 14-week course, students will explore sound design fundamentals through modular synthesizers, leveraging the capabilities of microcontrollers. Modular synthesizers are a type of electronic musical instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
+In this 14-week course, students will explore sound design fundamentals through synthesis on microcontrollers, and modular synthesizers. Modular synths are a type of electronic musical instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
 
-The curriculum blends the art of sound design with the technical aspects of hardware synthesizer architecture, building skills so that by the end of this course students will have the competence to bring their sonic visions to life in physical form through thoughtful interaction. By harnessing the modular nature of these components, students will work independently, taking into consideration the designs of their peers to ensure seamless compatibility between their devices, resulting in a distinct ‘voice’; a term used to describe a collection of components that define the signal path of a synthesizer.
+The curriculum blends the art of sound design with the technical aspects of hardware synthesizers, building skills so that by the end of this course students will have the competence to bring their sonic visions to life. By harnessing the modular nature of these components, students will work independently to design synthesizer modules compatible with those of their peers, resulting in a patchable synth ‘voice’; a term used to describe a collection of components that define the signal path of a synthesizer.
 
 The first half of the course will focus on sound design coding techniques utilizing the Teensy microcontroller, with the second half dedicated to developing tangible hardware design skills.
 
-**This is a live document and will be updated over the course of the semester**
+---
 
 Pre-requisites: Intro to Physical Computing or equivalent experience. No sound design/experience in music is required.
 
@@ -55,29 +55,27 @@ Homework is due at the beginning of each class. You are expected to be prepared 
 
 # **Class Pledge:**
 
-This document isn’t solely a roadmap of what we will accomplish over the course of the semester. It is an agreement between all of us to commit our efforts to seeing that it happens. My pledge as your instructor is to present these materials and do my best to help you succeed in understanding and implementing them in your work. Conversely I expect that you will do your best to learn and showcase your new skills in the project objectives.
-
-Above all, we must respect each other’s opinions, abilities, backgrounds, and presence here at all times. Learning in a class setting is a collective experience. Let’s have an awesome semester!
+This document isn’t solely a roadmap of what we will accomplish over the course of the semester. It is an agreement between all of us to commit our efforts to fulfilling it! Above all, we must respect each other’s opinions, abilities, backgrounds, and presence here at all times. Learning in a class setting is a collective experience. Let’s make it great.
 
 # **Learning Objectives:**
 
-Upon completion of this course you will have the resources to:
+Upon completion of this course you will have the tools to:
 
 **Navigate the Teensy Audio Design Tool:** Demonstrate proficiency in using the Teensy Audio Design Tool to create and visualize signal flows, establishing the groundwork for your synthesizer design.
 
-**Write Code Using the Audio Library:** Utilize the Teensy Audio library to implement essential sound design techniques within the specified signal flow, fostering a deeper understanding of audio processing and programming.
+**Write Code Using the Audio Library:** Utilize the Teensy Audio library to implement sound design techniques o.
 
-**Craft Eurorack-Formatted Hardware:** Design and assemble hardware devices adhering to the eurorack format.
-
-**Scale Audio/CV Signals to/from Eurorack/Teensy Standards:** Scale audio and control voltage (CV) signals between Teensy and eurorack standards.
+**Design Eurorack-Formatted Hardware:** Design hardware devices adhering to the eurorack format.
 
 **Interface with External Systems:** Communicate with external software and hardware.
 
 **Use Analog Components for Signal Processing:** Utilize analog components to create simple filters and utility circuits to further manipulate and shape audio signals.
 
-**Design Faceplates:** Develop your own faceplate for your designs.
+**Design Faceplates:** Develop your own faceplates for your designs.
 
-**Complete a Eurorack Module:** Produce a eurorack module, creating a tangible component of a larger modular synthesizer system.
+**Complete a Eurorack Module:** Produce a eurorack module; a tangible component of a larger modular synthesizer system.
+
+**This is a lot. The complexity of the module(s) you create will depend on several factors. As long as you're creating you will excel in this class. 
 
 ---
 

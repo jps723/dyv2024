@@ -3,7 +3,7 @@ title: Course Topics by Week
 ---
 
 Jan 22
-: Intro to Sine Waves
+: Intro to Patching
 
 Jan 29
 : Elements of a Voice: Oscillators / Filters
