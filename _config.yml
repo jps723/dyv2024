@@ -29,8 +29,8 @@ permalink: pretty
 aux_links:
   NYU | ITP:
     - "https://itp.nyu.edu/itp"
-  Github Repo:
-    - "https://github.com/"
+  # Github Repo:
+  #   - "https://github.com/"
 footer_content:
 
 # Collections for website data
