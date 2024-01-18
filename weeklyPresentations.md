@@ -21,7 +21,7 @@ There are LOTS of options out there for sound synthesis. This series is intended
 Jan 29: VCV Rack  
 Feb 5: Electrosmith Daisy  
 Feb 12: Bela Audio Board  
-Feb 26: RNBW/Raspberry Pi
+Feb 26: RNBW/Raspberry Pi  
 Mar 4: Axoloti Audio Board (Defunct)  
 Mar 25: Ornament & Crime  
 Apr 1: Patchblocks (Defunct)  
@@ -32,9 +32,9 @@ Apr 29: Monome Teletype
 
 # Alternative Topics:
 
-### If you are excited to share a different embedded audio project, or you'd prefer something from the list below, that's fine too.
+If you are excited to share a different embedded audio project, or you'd prefer something from the list below, that's fine too.
 
 Teensy DX7 Project  
-Arduino Boards for Synthesis
+Arduino Boards for Synthesis  
 Ciatlon Barde  
 Lorre Mille
