@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Designing Your Voice
+title: Designing Your Voice: _Synthetic Sounds from Circuits_
 nav_exclude: true
 permalink: /:path/
 seo:
@@ -20,5 +20,3 @@ Image by Paul Anthony on [wikipedia](https://en.wikipedia.org/wiki/Eurorack#/med
 - Modular Hardware Development
 
 Exploring sound synthesis on Teensy microcontrollers and ultimately patchable synthesizer components, all three of these subject matters are fundamental to the class. Sound design lies as the foundation with audio programming and hardware development serving as tools for exploring it.
-
-🔉
