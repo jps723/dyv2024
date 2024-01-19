@@ -4,8 +4,6 @@ title: Students
 description: A list of all participants in the course.
 ---
 
-# Students
-
 <!-- Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`. -->
 
 {% assign students = site.staffers | where: 'role', 'Student' %}
