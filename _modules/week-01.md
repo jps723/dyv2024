@@ -19,11 +19,11 @@ Jan 22
 
 **Watch:**  
 [MIT's Wizard of Synthesis](https://www.youtube.com/watch?v=cTCVm-Eo1F0&)
-Oscillators and Filters (Only watch 3:57-5:30) - Berklee Online
+[Oscillators and Filters (Only watch 3:57-5:30)](https://www.youtube.com/watch?v=c3udLCvoCC0&t=237s)
 
 **Recommended Listening:**  
-Silver Apples of the Moon – Morton Subotnick  
-Switched on Bach - Wendy Carlos https://www.moogmusic.com/media/switched-bach-how-world-met-moog
+[Silver Apples of the Moon – Morton Subotnick](https://www.youtube.com/watch?v=9HoljsO22qA)  
+[Switched on Bach - Wendy Carlos](https://www.moogmusic.com/media/switched-bach-how-world-met-moog)
 
 **Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. See the [Teensy Hardware & Setup](https://designingyourvoice.com/TeensyHardware/) page for my recommended hardware setup for this class.
 
