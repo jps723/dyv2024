@@ -27,7 +27,7 @@ Mar 25: Ornament & Crime
 Apr 1: Patchblocks (Defunct)  
 Apr 8: OpenWareLab (OWL) Devices  
 Apr 15: Dirty Wave M8  
-Apr 22: Chompy  
+Apr 22: Chompi Club
 Apr 29: Monome Teletype
 
 # Alternative Topics:
