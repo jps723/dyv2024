@@ -5,10 +5,10 @@ title: Week 3
 Feb 5
 : Elements of a Voice: Modulation (VCAs, LFOs, Envelopes)
 
-Modulation: Control Signals
-Voltage Controlled Amplifiers
-Low Frequency Oscillators
-ADSR Envelopes
+- Modulation: Control Signals
+- Voltage Controlled Amplifiers
+- Low Frequency Oscillators
+- ADSR Envelopes
 
 Homework:
 

@@ -4,10 +4,11 @@ title: Week 4
 
 Feb 12
 : Elements of a Voice: Basic Effects
-Delay
-Reverb
-Wavefolder
-Bitcrusher
+
+- Delay
+- Reverb
+- Wavefolder
+- Bitcrusher
 
 ### Homework:
 

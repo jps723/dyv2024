@@ -4,10 +4,12 @@ title: Week 2
 
 Jan 29
 : Elements of a Voice: Oscillators / Filters
-Teensy hardware Overview & Setup
-Intro to Teensy Audio Design Tool and Library
-Oscillators
-Filters
+
+- Teensy hardware
+- Overview & Setup
+- Intro to Teensy Audio Design Tool and Library
+- Oscillators
+- Filters
 
 ### Homework:
 
