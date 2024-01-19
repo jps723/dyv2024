@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teensy Hardware & Setup
+title: 5. Teensy Hardware & Setup
 description: Recommended Hardware for this Course
 ---
 

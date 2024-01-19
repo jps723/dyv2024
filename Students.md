@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Students
+title: 3. Students
 description: A list of all participants in the course.
 ---
 
