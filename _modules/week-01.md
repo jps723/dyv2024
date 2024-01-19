@@ -29,12 +29,10 @@ Jan 22
 
 **Get:** Obtain a Teensy 4.0 or Teensy 4.1 (only one of them), and an audio shield. There are some available in the shop to checkout for short term use however we will need them on an ongoing basis. See the [Teensy Hardware & Setup](https://designingyourvoice.com/TeensyHardware/) page for my recommended hardware setup for this class.
 
-:**Write::** Write a blog post on your experience with sound, and your interests in building synthesizers. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
+:**Write::** Write a blog post on your experience with sound, and your interests in building synthesizers. Choose 1-2 artists who have inspired you and show their work as references, describing why it is exciting to you. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
 
 **Optional Prompts:**
-On day 1, how do you envision your final project? What do you want to create in this class?
-
-Describe your favorite and least favorite sounds. What do they sound like and how do they make you feel? Imagine that you are describing them to someone who hasn’t heard them before and be as descriptive as possible.
+Describe your favorite and least favorite sounds. What do they sound like and how do they make you feel? Imagine that you are describing them to someone who hasn’t heard them before and be as descriptive as possible. Feel free to include audio/video references.
 
 Who are some musicians/composers who you admire?
 
