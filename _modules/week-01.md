@@ -18,8 +18,9 @@ Jan 22
 ### Homework:
 
 **Watch:**  
-[MIT's Wizard of Synthesis](https://www.youtube.com/watch?v=cTCVm-Eo1F0&)
-[Oscillators and Filters (Only watch 3:57-5:30)](https://www.youtube.com/watch?v=c3udLCvoCC0&t=237s)
+[MIT's Wizard of Synthesis](https://www.youtube.com/watch?v=cTCVm-Eo1F0&)  
+[Oscillators & Waveforms](https://www.youtube.com/watch?v=qV10Gb-Dvao)  
+[Subtractive Synthesis & Filters](https://www.youtube.com/watch?v=In23B9qZhI8)
 
 **Read:**
 [Switched on Bach - Wendy Carlos](https://www.moogmusic.com/media/switched-bach-how-world-met-moog)
