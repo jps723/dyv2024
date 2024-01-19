@@ -13,7 +13,7 @@ Jan 29
 
 ### Homework:
 
-Watch:
+Watch: [Synthesizer Voice Overview](https://www.youtube.com/watch?v=c3udLCvoCC0)
 
 **Recommended Listening:**
 Geogaddi – Boards of Canada
