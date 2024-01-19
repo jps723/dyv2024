@@ -14,10 +14,10 @@ Feb 12
 
 Watch:
 
-Alessandro Cortini - In the Studio
+[Alessandro Cortini - In the Studio](https://www.youtube.com/watch?v=BUtnzGeXUaQ)
 
 Recommended Listening:
-Construct Contrast - Geskia!
-Everything Ends Here - Blind Old Freak (Alessandro Cortini) & Don Buchla
+[Construct Contrast - Geskia!](https://www.youtube.com/watch?v=2Dmd-Oi-UU0)
+[Everything Ends Here - Blind Old Freak (Alessandro Cortini) & Don Buchla](https://www.youtube.com/watch?v=J89IY3Ss2Mk)
 
-Make: Build off of your sketch from last week to incorporate an effect, or series of effects. Explore the ones that we didn’t look at in class; Experiment with changing the order that you connect them. How does that change the resulting voice? Document your work using a blog post. Sketch out ideas for your midterm (and/or final) project. What are you hoping to achieve and how will it help to extend your musical self expression?
+Make: Build off of your sketch from last week to incorporate an effect, or series of effects. Explore the library; Experiment with rearranging your signal path. How does that change the resulting voice? Document your work using a blog post. Choose one of your sketches from a previous week to elaborate on for a midterm project.

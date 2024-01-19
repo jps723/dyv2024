@@ -13,7 +13,9 @@ Activity: With a partner, use a zoom recorder, or phone, to record samples aroun
 
 ### Homework:
 
-Watch:
-Recommended Listening:
-Emergence - Shuta Hasunuma
+**Watch:**
+
+**Recommended Listening:**  
+[Emergence - Shuta Hasunuma](https://www.youtube.com/watch?v=B8K2RlHTADY)
+
 Make: Work toward your midterm project and prepare for play testing. Document your progress in a blog post.

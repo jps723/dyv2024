@@ -13,9 +13,11 @@ Jan 29
 
 ### Homework:
 
-Watch: [Synthesizer Voice Overview](https://www.youtube.com/watch?v=c3udLCvoCC0)
+**Watch:**  
+[Synthesizer Voice Overview](https://www.youtube.com/watch?v=c3udLCvoCC0)
 
-**Recommended Listening:**
-Geogaddi – Boards of Canada
+**Recommended Listening:**  
+[Geogaddi – Boards of Canada](https://www.youtube.com/watch?v=vDkHR80rNtw)
 
-**Make:** Construct a design using the Teensy Audio Design Tool that incorporates an oscillator(s), filter, and optionally a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post.
+**Make:**  
+Construct a design using the Teensy Audio Design Tool that incorporates at least 2 oscillator(s), a filter, and a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post and talk about your experience in mixing sounds. How are you currently controlling the parameters within your code? How else might you be able to control them?
