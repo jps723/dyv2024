@@ -3,7 +3,7 @@ title: Course Topics by Week
 ---
 
 Jan 22
-: Intro to Patching
+: Introductions
 
 - Syllabus review
 - Synthesis Overview
