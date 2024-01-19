@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Calendar
+title: Syllabus - Week by Week
 description: Listing of course modules and topics.
 ---
 
-# Calendar
+# Syllabus - Week by Week
 
 {% for module in site.modules %}
 {{ module }}
