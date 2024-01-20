@@ -6,11 +6,9 @@ Jan 22
 : Introductions
 
 - Syllabus review
-- Synthesis Overview
 - History of Synthesis
 - Hardware synthesizers
 - Modular Synthesis
-- Analog vs. Digital Synthesis
 - Software Synthesizers
 - Embedded audio
 - Intro to Patching

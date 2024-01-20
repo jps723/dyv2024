@@ -20,27 +20,28 @@ description: >-
 <center> Location: 370 Jay St, 4th Floor, rm 408, ITP NYU </center> 
 <center> Instructor: Jesse Simpson </center> 
 <center> Email: Jesse.Simpson@nyu.edu </center> 
-<center> Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Fri, 12:00-2:00pm </center>
+<center> [Office Hours: In-Person: Mon, 12:15-2:15pm || Remote: Fri, 12:00-2:00pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg) </center>
 
 ![A gif where there are five rows of different shapes with a line at each of their center points. The line is rotating in a circle and follows the edge of the shape, measuring the distance. To the right, of the shape, a waveform is drawn, mapping the distance to an amplitude](assets/images/waveshapes.gif){:style="display:block; margin-left:auto; margin-right:auto" width="150"}
 
 ---
 
-### <center>**This is a live document and will be updated over the course of the semester**</center>
+### <center>**This site is live and changing. I will be using it as a repo over the course of the semester**</center>
 
 ---
 
 # **Course Description:**
 
-In this 14-week course, students will explore sound design fundamentals through synthesis on microcontrollers, and modular synthesizers. Modular synths are a type of electronic musical instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
+In this 14-week course, students will explore sound design fundamentals through synthesis on microcontrollers, and modular synthesizers. Modular synths are a type of electronic instrument used to generate, manipulate, and shape sound through the interconnection of individual modules, or components. This course is designed to equip students with the skills and creative prowess required to craft their own unique devices that adhere to the Eurorack design format; a popular modular synthesizer standard.
 
-The curriculum blends the art of sound design with the technical aspects of hardware synthesizers, building skills so that by the end of this course students will have the competence to bring their sonic visions to life. By harnessing the modular nature of these components, students will work independently to design synthesizer modules compatible with those of their peers, resulting in a patchable synth ‘voice’; a term used to describe a collection of components that define the signal path of a synthesizer.
+The curriculum blends the art of sound design with the technical aspects of hardware synthesizers, building skills so that by the end of this course students will have the competence to create a unique modular synth component. By harnessing the modular nature of these devices, students will work independently to design modules compatible with those of their peers, resulting in a patchable synth ‘voice’; a term used to describe a collection of components that define the signal path of a synthesizer.
 
 The first half of the course will focus on sound design coding techniques utilizing the Teensy microcontroller, with the second half dedicated to developing tangible hardware design skills.
 
 ---
 
-Pre-requisites: Intro to Physical Computing or equivalent experience. No sound design/experience in music is required.
+Pre-requisites:  
+Intro to Physical Computing or equivalent experience. No sound design/experience in music is required.
 
 # **Grading System:**
 
