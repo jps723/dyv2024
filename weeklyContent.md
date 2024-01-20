@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4. Syllabus - Week by Week
+title: 2. Weekly Content
 description: Listing of course modules and topics.
 ---
 
