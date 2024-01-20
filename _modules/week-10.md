@@ -11,3 +11,5 @@ Apr 8
 - Effects Pedals
 
 ### Homework:
+
+Prepare to present on your final project idea in the next class. Remembe
