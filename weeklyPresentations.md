@@ -18,8 +18,8 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Eurorack**{: .label .label-yellow }
 **Product/Tool**{: .label .label-green } -->
 
-Jan 29: VCV Rack
-Feb 5: Teenage Engineering Pocket Operator 400; Electrosmith Daisy (two presenters)
+Jan 29: VCV Rack  
+Feb 5: Teenage Engineering Pocket Operator 400; Electrosmith Daisy (two presenters)  
 Feb 12: Bela Audio Board  
 Feb 26: RNBW/Raspberry Pi  
 Mar 4: Axoloti Audio Board  
