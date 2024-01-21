@@ -19,12 +19,12 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Product/Tool**{: .label .label-green } -->
 
 Jan 29: VCV Rack
-Feb 5: Electrosmith Daisy; Teenage Engineering Pocket Operator 400
+Feb 5: Teenage Engineering Pocket Operator 400; Electrosmith Daisy (two presenters)
 Feb 12: Bela Audio Board  
 Feb 26: RNBW/Raspberry Pi  
-Mar 4: Axoloti Audio Board (Defunct)  
+Mar 4: Axoloti Audio Board  
 Mar 25: Ornament & Crime  
-Apr 1: Patchblocks (Defunct)  
+Apr 1: Patchblocks  
 Apr 8: OpenWareLab (OWL) Devices  
 Apr 15: Dirty Wave M8  
 Apr 22: Chompi Club  
