@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 6. Weekly Presentations
+title: 5. Weekly Presentations
 description: >-
   Course policies and information.
 ---

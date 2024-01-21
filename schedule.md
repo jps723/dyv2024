@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4. Schedule
+title: 3. Schedule
 description: The weekly event schedule.
 ---
 

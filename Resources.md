@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 7. Resources
+title: 6. Resources
 description: A broad list of resources
 ---
 
