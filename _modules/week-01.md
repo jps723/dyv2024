@@ -32,9 +32,7 @@ Jan 22
 
 **Write:**
 
-- Write a blog post introducing yourself in relation to sound/music. Feel free to discuss your personal tastes/aesthetics that you’re drawn to.
-
-**Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present**
+- Write a blog post introducing yourself in relation to sound/music. Feel free to discuss your personal tastes/aesthetics that you’re drawn to. Everyone will present for 3-5 mins in Week 2. In later weeks, not everyone will present.
 
 **Optional Prompts:**
 
