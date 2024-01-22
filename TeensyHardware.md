@@ -39,3 +39,5 @@ Stack the Audio Shield on top of it. This configuration allows for prototyping o
 ![The Teensy 4.x audio shield stacked on top of a Teensy 4.1 which is inserted into a breadboard](assets/images/teensy4_1_withAudioBoardStacked.JPG)
 
 ![The Teensy 4.x audio shield stacked on top of a Teensy 4.1](assets/images/teensy4_1_andAudioshield.JPG)
+
+![A closeup image of the teensy 4.x audio shield stacked on top of a Teensy 4.1, which is then inserted into a breadboard](assets/images/teensy4_1_audioBoardInBreadboard.jpeg)
