@@ -112,3 +112,7 @@ Please feel free to make suggestions to your instructor about ways in which this
 # Statement on Counseling and Wellness
 
 Your health and safety are a priority at NYU. If you experience any health or mental health issues during this course, we encourage you to utilize the support services of the 24/7 NYU Wellness Exchange 212-443-9999. Also, all students who may require an academic accommodation due to a qualified disability, physical or mental, please register with the Moses Center 212-998-4980. Please let your instructor know if you need help connecting to these resources.
+
+# Title IX Statement
+
+Tisch School of the Arts is dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end, Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender. Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html
