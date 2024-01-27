@@ -29,8 +29,8 @@ permalink: pretty
 aux_links:
   Office Hours:
     - "https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg"
-  Code Repo:
-    - "https://github.com/jps723/dyv2024/tree/main/code"
+  # Code Repo:
+  #   - "https://github.com/jps723/dyv2024/tree/main/code"
 footer_content:
 
 # Collections for website data
