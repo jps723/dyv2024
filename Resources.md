@@ -14,7 +14,7 @@ description: A broad list of resources
 
 Relatively cheap tools that have served me well for prototyping. This list will grow as we advance through the semester.
 
-[Pre-formed jumper wires](https://www.amazon.com/Elenco-Piece-Pre-formed-Jumper-Wire/dp/B0002H7AIG/) - These are a lot less flimsy than others I have used.
+[AWG #22 Pre-formed jumper wires](https://www.amazon.com/Elenco-Piece-Pre-formed-Jumper-Wire/dp/B0002H7AIG/) - These are a lot less flimsy than AWG #24, and .
 
 [Test Leads](https://www.amazon.com/Goupchn-Silicone-Multimeter-Minigrabber-Electronic/dp/B0852KRNPP/) - Sometimes alligator clips are too bulky. These are great.
 
