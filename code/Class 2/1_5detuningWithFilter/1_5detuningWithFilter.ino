@@ -18,8 +18,8 @@ AudioConnection patchCord1(waveform1, 0, mixer, 0);
 AudioConnection patchCord2(waveform2, 0, mixer, 1);
 AudioConnection patchCord3(mixer, 0, filter1, 0);
 AudioConnection patchCord4(mixer, 0, filter1, 1);
-AudioConnection patchCord5(filter1, 2, i2s, 0);
-AudioConnection patchCord6(filter1, 2, i2s, 1);
+AudioConnection patchCord5(filter1, 0, i2s, 0);
+AudioConnection patchCord6(filter1, 0, i2s, 1);
 AudioControlSGTL5000 sgtl5000;  //xy=813,435
 // GUItool: end automatically generated code
 
@@ -118,7 +118,7 @@ void loop() {
 
   int frequencyCutoffKnob = analogRead(A16);
   // quick and dirty equation for exp scale frequency adjust
-  float frequencyCutoff = expf((float)frequencyCutoffKnob / 150.0) * 10.0;
+  float frequencyCutoff = expf((float)frequencyCutoffKnob / 150.0) * 8;
   filter1.frequency(frequencyCutoff);
 }
 

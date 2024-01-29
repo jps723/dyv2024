@@ -39,7 +39,7 @@ void setup() {
   pinMode(36, INPUT);
 
   sgtl5000_1.enable();
-  sgtl5000_1.volume(.6);
+  sgtl5000_1.volume(.5);
 
   currentWaveform = WAVEFORM_TRIANGLE;
 

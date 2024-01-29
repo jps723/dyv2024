@@ -21,7 +21,7 @@ AudioConnection          patchCord3(waveform2, 0, mixer1, 1);
 AudioConnection          patchCord4(waveform4, 0, mixer1, 3);
 AudioConnection          patchCord5(mixer1, 0, filter1, 0);
 AudioConnection          patchCord6(filter1, 0, i2s1, 0);
-AudioConnection          patchCord7(filter1, 2, i2s1, 1);
+AudioConnection          patchCord7(filter1, 0, i2s1, 1);
 AudioControlSGTL5000     sgtl5000_1;     //xy=639,471
 // GUItool: end automatically generated code
 
@@ -42,7 +42,7 @@ void setup() {
   Serial.begin(9600);
 
   sgtl5000_1.enable();
-  sgtl5000_1.volume(.6);
+  sgtl5000_1.volume(.5);
 
   currentWaveform = WAVEFORM_TRIANGLE;
 
@@ -82,7 +82,8 @@ void loop() {
   float channel3Gain = (float)analogRead(A16) / 1023;
   float channel4Gain = (float)analogRead(A16) / 1023;
 
-  int frequencyCutoff = map(analogRead(A17), 0, 1023, 0, 6000);
+  int frequencyCutoff = map(analogRead(A17), 0, 1023, 0, 14000);
+  
 
   filter1.frequency(frequencyCutoff); 
 

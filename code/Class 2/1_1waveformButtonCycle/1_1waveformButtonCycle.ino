@@ -32,7 +32,7 @@ void setup() {
   //set up the audio board
   sgtl5000_1.enable();
   //this affects the volume of the headphone jack. It does not affect the line level outputs
-  sgtl5000_1.volume(0.5);
+  sgtl5000_1.volume(0.4);
 
   currentWaveform = WAVEFORM_SQUARE;
 

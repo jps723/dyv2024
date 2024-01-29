@@ -33,9 +33,9 @@ AudioControlSGTL5000 sgtl5000_1;  //xy=860.6667098999023,465.3333320617676
 #define SDCARD_SCK_PIN 14
 
 // Bounce objects to read pushbuttons
-Bounce button2 = Bounce(29, 15);
 Bounce button0 = Bounce(36, 15);
 Bounce button1 = Bounce(37, 15);  // 15 ms debounce time
+Bounce button2 = Bounce(29, 15);
 
 void setup() {
   pinMode(29, INPUT);
@@ -43,8 +43,10 @@ void setup() {
   pinMode(37, INPUT);
   Serial.begin(9600);
   AudioMemory(12);
+
+  //audio board setup
   sgtl5000_1.enable();
-  sgtl5000_1.volume(0.5);
+  sgtl5000_1.volume(0.6);
   SPI.setMOSI(SDCARD_MOSI_PIN);
   SPI.setSCK(SDCARD_SCK_PIN);
   if (!(SD.begin(SDCARD_CS_PIN))) {
@@ -67,14 +69,14 @@ void setup() {
 void loop() {
   if (playSdWav1.isPlaying() == false) {
     Serial.println("Start playing");
-    //playSdWav1.play("RhythmVariation7_aokiTakamasa_RV8.WAV");
+    playSdWav1.play("RhythmVariation7_aokiTakamasa_RV8.WAV");
     //playSdWav1.play("unfoldingMechanism_Vaetxh_libetTones.WAV");
-    playSdWav1.play("revans_Sora.WAV");
+    //playSdWav1.play("revans_Sora.WAV");
 
     delay(10);  // wait for library to parse WAV info
   }
 
-  // Update all the button objects
+  // Update all of the button objects
   button0.update();
   button1.update();
   button2.update();

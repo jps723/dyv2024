@@ -27,7 +27,7 @@ void setup() {
   sgtl5000_1.enable();
 
   //this affects the volume of the headphone jack. It does not affect the line level outputs
-  sgtl5000_1.volume(0.5);
+  sgtl5000_1.volume(0.4);
 
   //setup for waveform object
   waveform1.frequency(freq);

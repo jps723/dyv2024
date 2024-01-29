@@ -37,6 +37,7 @@ void setup() {
 
   //set up the audio board
   sgtl5000.enable();
+  
   //this affects the volume of the headphone jack. It does not affect the line level outputs
   sgtl5000.volume(0.5);
 
