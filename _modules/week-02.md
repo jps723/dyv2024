@@ -30,8 +30,7 @@ Jan 29
 **Make:**  
 Use the Teensy Audio Design Tool to make a synthesizer that incorporates the concepts explored in class: oscillators, wavetypes, harmonics, detuning, and filters. You do not need to incorporate all of them. Feel free to build off of the examples. Think about how you're currently adjusting the parameters within your code? How else might you be able to control them?
 
-Optional prompts:  
-
+Optional prompts:
 - Use the concept of harmonics to construct a square wave using a combination of sine waves?  A hint is in the slides...  
 
 - Make a drone using oscillator detuning and a breadboard circuit to adjust the detuning amounts. 
