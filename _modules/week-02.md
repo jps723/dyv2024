@@ -9,7 +9,15 @@ Jan 29
 - Overview & Setup
 - Intro to Teensy Audio Design Tool and Library
 - Oscillators
+    - Wavetypes
+    - Phase
+    - Harmonics
+    - Detuning
 - Filters
+    - Low Pass
+    - High Pass
+    - Band Pass 
+    - Notch
 
 ### Homework:
 
@@ -20,4 +28,8 @@ Jan 29
 [Geogaddi – Boards of Canada](https://www.youtube.com/watch?v=vDkHR80rNtw)
 
 **Make:**  
-Construct a design using the Teensy Audio Design Tool that incorporates at least 2 oscillator(s), a filter, and a mixer object, and a corresponding hardware circuit to control elements of it using analog sensors. Document your work using a blog post and talk about your experience in mixing sounds. How are you currently controlling the parameters within your code? How else might you be able to control them?
+Use the Teensy Audio Design Tool to make a synthesizer that incorporates the concepts explored in class: oscillators, wavetypes, harmonics, detuning, and filters. You do not need to incorporate all of them. Feel free to build off of the examples. Think about how you currently adjusting the parameters within your code? How else might you be able to control them?
+
+Optional prompts: Use the concept of harmonics to construct a square wave using a combination of sine waves?  
+
+
