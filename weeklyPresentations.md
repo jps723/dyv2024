@@ -19,10 +19,10 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Product/Tool**{: .label .label-green } -->
 
 Jan 29: VCV Rack  
-Feb 5: Teenage Engineering Pocket Operator 400; Electrosmith Daisy (two presenters)  
-Feb 12: Bela Audio Board  
+Feb 5: Teenage Engineering Pocket Operator 400  
+Feb 12: Electrosmith Daisy  
 Feb 26: RNBW/Raspberry Pi  
-Mar 4: Axoloti Audio Board  
+Mar 4: Bela Audio Board
 Mar 25: Ornament & Crime  
 Apr 1: Patchblocks  
 Apr 8: OpenWareLab (OWL) Devices  
@@ -38,3 +38,4 @@ Teensy DX7 Project
 Arduino Boards for Synthesis  
 Ciatlon Barde  
 Lorre Mille
+Axoloti
