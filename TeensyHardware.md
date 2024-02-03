@@ -10,7 +10,7 @@ The first half of this class is taught using the [Teensy 4.1](https://www.pjrc.c
 
 # **Teensy 4.1 with 'Extra Long' Stacking Female Headers**
 
-Solder [extra long stacking header pins](https://www.adafruit.com/product/2830) to your Teensy 4.x board. The solder should be on the bottom side of the board. You may need to sand down the adjacent edges of the headers to get them to seat properly next to each other.
+Solder [extra long stacking header pins](https://www.adafruit.com/product/5582) to your Teensy 4.x board. The solder should be on the bottom side of the board. You may need to sand down the adjacent edges of the headers to get them to seat properly next to each other.
 
 **Do not snip off the excess pin length!!**
 
