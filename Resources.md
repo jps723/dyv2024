@@ -19,3 +19,9 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Test Leads](https://www.amazon.com/Goupchn-Silicone-Multimeter-Minigrabber-Electronic/dp/B0852KRNPP/) - Sometimes alligator clips are too bulky. These are great.
 
 [Digital Oscilloscope](https://www.amazon.com/Digital-Oscilloscope-Portable-Sampling-Oscilloscopes/dp/B0BXD6JL8T/) - Very helpful for troubleshooting audio circuit oddities.
+
+# Class Slides
+
+[Class 1 - Introductions](https://docs.google.com/presentation/d/1BOoeiWSBALnbR51Z-VF6w6HzhsnG3HWBKPIQPT9NMss/edit?usp=sharing)
+
+[Class 2 - Oscillators & Filters](https://docs.google.com/presentation/d/1nLoB0f5fyK9Z7QsdNIlXbR2OM0jGjDi3bsPsiZ37mSc/edit?usp=sharing)
