@@ -46,7 +46,7 @@ void setup() {
 
   //audio board setup
   sgtl5000_1.enable();
-  sgtl5000_1.volume(0.6);
+  sgtl5000_1.volume(0.8);
   SPI.setMOSI(SDCARD_MOSI_PIN);
   SPI.setSCK(SDCARD_SCK_PIN);
   if (!(SD.begin(SDCARD_CS_PIN))) {

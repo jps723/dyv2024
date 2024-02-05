@@ -4,15 +4,13 @@
 #include <SD.h>
 #include <SerialFlash.h>
 
-
 // GUItool: begin automatically generated code
-AudioSynthWaveform       waveform1;      //xy=518,264
-AudioOutputI2S           i2s1;           //xy=700,266
+AudioSynthWaveform       waveform1;      //xy=532,258
+AudioOutputI2S           i2s1;           //xy=699,259
 AudioConnection          patchCord1(waveform1, 0, i2s1, 0);
 AudioConnection          patchCord2(waveform1, 0, i2s1, 1);
-AudioControlSGTL5000     sgtl5000_1;     //xy=711,349
+AudioControlSGTL5000     sgtl5000_1;     //xy=711,333
 // GUItool: end automatically generated code
-
 
 float amp = 1;
 int freq = 110;
