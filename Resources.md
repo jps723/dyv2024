@@ -25,3 +25,6 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Class 1 - Introductions](https://docs.google.com/presentation/d/1BOoeiWSBALnbR51Z-VF6w6HzhsnG3HWBKPIQPT9NMss/edit?usp=sharing)
 
 [Class 2 - Oscillators & Filters](https://docs.google.com/presentation/d/1nLoB0f5fyK9Z7QsdNIlXbR2OM0jGjDi3bsPsiZ37mSc/edit?usp=sharing)
+
+[Class 3 - Modulation, LFOs, Envelopes, and VCAs](https://docs.google.com/presentation/d/16HeQxrTBrAhh6-371D3O_rHzLjxvYzNxhpRM7IQQQM4/edit?usp=sharing)
+
