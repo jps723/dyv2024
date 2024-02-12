@@ -71,9 +71,9 @@ void setup() {
 void loop() {
   // Update all the button objects
   button0.update();
-  button1.update();
-  button2.update();
-  button3.update();
+  // button1.update();
+  // button2.update();
+  // button3.update();
   playNote();
 
 

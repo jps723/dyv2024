@@ -28,3 +28,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 
 [Class 3 - Modulation, LFOs, Envelopes, and VCAs](https://docs.google.com/presentation/d/16HeQxrTBrAhh6-371D3O_rHzLjxvYzNxhpRM7IQQQM4/edit?usp=sharing)
 
+[Class 4 - Basic Effects - Line Level Inputs](https://docs.google.com/presentation/d/1Y68XOhlTtiGOVx2A38qLdesFD-Md8h0qHbgWtnq1xws/edit?usp=sharing)
+

@@ -34,7 +34,7 @@ void setup() {
   pinMode(29, INPUT);
   pinMode(30, INPUT);
   Serial.begin(9600);
-  AudioMemory(100);
+  AudioMemory(10);
   sgtl5000_1.enable();
   sgtl5000_1.volume(.6);
 
