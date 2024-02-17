@@ -21,12 +21,10 @@ Recommended Listening:
 [Everything Ends Here - Blind Old Freak (Alessandro Cortini) & Don Buchla](https://www.youtube.com/watch?v=J89IY3Ss2Mk)
 [Construct Contrast - Geskia!](https://www.youtube.com/watch?v=2Dmd-Oi-UU0)
 
-Make: Work with a partner to build off of your previous sketches.  Experiment with rearranging your signal path(s). How does that change the resulting voice? Document your work using a blog post.
+Work with your partner to: 
 
-Optional Prompt: "Modularize" your code, so that it can be spread across two teenies. Consider creating: 
+a) Create a synth on each of your microcontrollers incorporating the concepts we've been covering: oscillators, filters, modulation, (an effect? As mentioned, some in the library are more accessible than others - if you have questions or run into trouble, I'm available to help), etc. Work together so that your synths have complementary characteristics; I.e. one person makes a droning pad, and the other makes more percussive sounds. Or two drones with complementary tunings. Instead of a button press to trigger your notes, how else might you try to code them and add rhythm? 
 
-Person A: a more complex oscillator with different waveforms and tunings. How can you elaborate on  
+b) Give your synth more musical context: add more buttons and program each one to play a specific frequency/note. Replicate your signal flow for each button/note, and mix them together using a mixer object. You can tune each note using this chart, strategically. Tune them using the techniques we've discussed in class, or explore a scale. We haven't discussed this yet in class but we will when we get back. Explore ADSR envelope shapes and make them adjustable, or evolving over time. 
 
-Person B: use the line level inputs (i2s1) on the teensy audio board to take in the signal from Person A's teensy, and process it on yours. Maybe consider making something that begins with an ADSR envelope. If you're currently using a button, how can you begin to think about generating more interesting rhythms? Code? Different sensors? 
-
-Start to think about your previous sketches and ways you might elaborate on them for a midterm project. This does not need to be a full fledged instrument. The purpose of this project is to take what you've learnd and design a signal path that allows for an expressive sound. More complexity will come as we begin to chain together our ideas!
+c) Go modular 🤘: Deconstruct the synth voice(s) that we've been building into smaller components and 'patch' the audio from one teensy to another using the line level ins/outs. Think of each teensy as a module that serves a specific function. Right now we are only passing audio signals, but how might you be able to extend this concept to modulation signals down the road? Until then, can you code a Sine wave LFO to modulate the frequency of a teensy oscillator since we're not yet able to use external signals? 
