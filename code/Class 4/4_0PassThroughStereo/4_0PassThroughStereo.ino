@@ -35,16 +35,8 @@ void setup() {
   sgtl5000_1.volume(0.5);
 }
 
-elapsedMillis volmsec=0;
-
 void loop() {
-  // every 50 ms, adjust the volume
-  if (volmsec > 50) {
-    float vol = analogRead(15);
-    vol = vol / 1023.0;
-    //audioShield.volume(vol); // <-- uncomment if you have the optional
-    volmsec = 0;               //     volume pot on your audio shield
-  }
+
 }
 
 

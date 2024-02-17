@@ -22,12 +22,6 @@ AudioControlSGTL5000 sgtl5000_1;  //xy=888,505
 void setup() {
   // put your setup code here, to run once:
   AudioMemory(40);
-  //change to INPUT_PULLUP if not using external resistor
-  pinMode(36, INPUT);
-  pinMode(37, INPUT);
-  pinMode(29, INPUT);
-
-  //24: 1.71 Volts p-p
 
   sgtl5000_1.enable();
   sgtl5000_1.volume(0.5);
@@ -49,7 +43,7 @@ void loop() {
   if (!(playSdWav1.isPlaying())) {
     playSdWav1.play("RhythmVariation7_aokiTakamasa_RV8.WAV");
     //playSdWav1.play("unfoldingMechanism_Vaetxh_libetTones.WAV");
-    //playSdWav1.play("revans_Sora.WAV");
+   //playSdWav1.play("revans_Sora.WAV");
     //playSdWav1.play("piano.wav");
   }
 }
