@@ -6,8 +6,6 @@ Feb 12
 : Elements of a Voice: Basic Effects & Line Levels
 
 - Delay
-- Reverb
-- Wavefolder
 - Bitcrusher
 - Line Level In/Out
 
