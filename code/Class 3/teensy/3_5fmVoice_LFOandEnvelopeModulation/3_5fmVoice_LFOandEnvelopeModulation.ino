@@ -120,5 +120,4 @@ void playNote() {
     envelope2.noteOff ();
     envelope1.noteOff();
   }
-
 }
