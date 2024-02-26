@@ -10,9 +10,9 @@ description: A broad list of resources
 
 [Modwiggler](https://www.modwiggler.com/forum/index.php) - A popular forum for all things modular synths, including DIY.
 
-[New York Modular Society](https://nyms.love/)
+[New York Modular Society](https://nyms.love/) - Modular synth community based in NYC - Very active Discord
 
-[Synth Library NYC](https://synthlibrarynyc.org/)
+[Synth Library NYC](https://synthlibrarynyc.org/) - Synth loan library cofounded by ITPer, [Cy X!](https://cyberwitch666.com/)
 
 # Hardware
 
