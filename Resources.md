@@ -30,3 +30,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 
 [Class 4 - Basic Effects - Line Level Inputs](https://docs.google.com/presentation/d/1Y68XOhlTtiGOVx2A38qLdesFD-Md8h0qHbgWtnq1xws/edit?usp=sharing)
 
+[Class 5 - Intermediate Sound Design/Sampling/Intro to Theory](https://docs.google.com/presentation/d/1VWrumGnpVqd9XsqTVrJ6Gt85X7Y_CdbYwDz6NV9_p90/edit?usp=sharing)
+
