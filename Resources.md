@@ -10,6 +10,10 @@ description: A broad list of resources
 
 [Modwiggler](https://www.modwiggler.com/forum/index.php) - A popular forum for all things modular synths, including DIY.
 
+[New York Modular Society](https://nyms.love/)
+
+[Synth Library NYC](https://synthlibrarynyc.org/)
+
 # Hardware
 
 Relatively cheap tools that have served me well for prototyping. This list will grow as we advance through the semester.
