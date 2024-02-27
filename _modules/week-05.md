@@ -26,7 +26,7 @@ Optional prompts:
 
 2. Add more scales. In class we looked at a major scale, however all scales are formulaic in nature. Look up the formula(s) for other scales and create an array, or series of arrays that incorporates more scales so that your synth has a bigger arsenal of musical possibilities!
 
-3. Make an arpeggiator. This week we spoke about chords, which is the playing of select notes from a scale simultaneously with one another. A common tool in electronic music is an arpeggiator, which instead plays the same notes that are in a chord, but in succession - In traditional music this is known as an arpeggio. This teensy arpeggiator reference might be helpful - there are several videos in the series. Create an arpeggiator so that:
+3. Make an arpeggiator. This week we spoke about chords, which is the playing of select notes from a scale simultaneously with one another. A common tool in electronic music is an arpeggiator, which instead plays the same notes that are in a chord, but in succession - In traditional music this is known as an arpeggio. Create an arpeggiator so that:
 
    a) each button press plays the first, then the third, and then the fifth note of a major triad chord.
 
