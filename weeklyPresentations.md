@@ -18,24 +18,23 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Eurorack**{: .label .label-yellow }
 **Product/Tool**{: .label .label-green } -->
 
-Jan 29: VCV Rack  
-Feb 5: Teenage Engineering Pocket Operator 400  
-Feb 12: Electrosmith Daisy  
-Feb 26: RNBO/Raspberry Pi  
-Mar 4: Bela Audio Board  
-Mar 25: Ornament & Crime  
-Apr 1: Patchblocks  
-Apr 8: OpenWareLab (OWL) Devices  
-Apr 15: Dirty Wave M8  
-Apr 22: Chompi Club  
-Apr 29: Monome Teletype
+Jan 29: VCV Rack - Patrick  
+Feb 5: Teenage Engineering Pocket Operator 400 - Q  
+Feb 12: [Electrosmith Daisy](https://docs.google.com/presentation/d/1HlKTLBwrDi37HM-bIxcPHo5zTMcN79pKnjKLT_91JBg/edit#slide=id.p) - Audrey  
+Feb 26: RNBO/Raspberry Pi - Jess  
+Mar 4: Bela Audio Board - Tres  
+Mar 25: Ornament & Crime - Priyanka  
+Apr 8: OpenWareLab (OWL) Devices - Michelle  
+Apr 15: Monome Teletype - Cindy  
+Apr 22:Furnace - Zi
 
 # Alternative Topics:
 
 Feel free to choose an alternative topic but discuss it with me ahead of time.e
 
+Patchblocks  
 Teensy DX7 Project  
 Arduino Boards for Synthesis  
 Ciatlon Barde  
-Lorre Mille
+Lorre Mille  
 Axoloti
