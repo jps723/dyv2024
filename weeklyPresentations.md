@@ -19,9 +19,9 @@ There are LOTS of options out there for sound synthesis. This series is intended
 **Product/Tool**{: .label .label-green } -->
 
 Jan 29: VCV Rack - Patrick  
-Feb 5: Teenage Engineering Pocket Operator 400 - Q  
+Feb 5: [Teenage Engineering Pocket Operator 400](https://drive.google.com/file/d/1DbWCrYrlqQGn-yC65lS4uToznMuS_a7a/view?usp=sharing) - Q  
 Feb 12: [Electrosmith Daisy](https://docs.google.com/presentation/d/1HlKTLBwrDi37HM-bIxcPHo5zTMcN79pKnjKLT_91JBg/edit#slide=id.p) - Audrey  
-Feb 26: RNBO/Raspberry Pi - Jess  
+Feb 26: [RNBO](https://docs.google.com/presentation/d/1y8V78RUKOmZPDfYqE4_pxU2ms5fg0icwUwiqw56kyJ0/edit#slide=id.p) - Jess  
 Mar 4: Bela Audio Board - Tres  
 Mar 25: Ornament & Crime - Priyanka  
 Apr 8: OpenWareLab (OWL) Devices - Michelle  

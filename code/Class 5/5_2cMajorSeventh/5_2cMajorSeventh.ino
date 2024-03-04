@@ -65,7 +65,7 @@ Bounce button3 = Bounce(37, 15);
 //a variable for shifting the position within the array
 int currentOctave = 1;
 
-float cMajorScale[7] = {130.81, 146.83, 164.81, 174.61, 196.00, 220, 246.94 };
+float cMajorScale[7] = {130.81, 146.83, 164.81, 174.61, 196.00, 220, 246.94};
 
 void setup() {
   pinMode(28, INPUT);
@@ -73,7 +73,6 @@ void setup() {
   pinMode(30, INPUT);
   pinMode(36, INPUT);
   pinMode(37, INPUT);
-
 
   Serial.begin(9600);
   AudioMemory(50);
