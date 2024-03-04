@@ -30,7 +30,7 @@ Apr 22:Furnace - Zi
 
 # Alternative Topics:
 
-Feel free to choose an alternative topic but discuss it with me ahead of time.e
+Feel free to choose an alternative topic
 
 Patchblocks  
 Teensy DX7 Project  
