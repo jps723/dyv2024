@@ -35,15 +35,16 @@ Bounce button3 = Bounce(30, 15);
 
 //a 2D array to store the notes of our scales in.
 //There are 7 scales (diatonic modes), with 8 notes each
-//
+
 int rootScaled[7][8] = {};
 
 //pick a root note/key.
-int rootNote = 40;
+int rootNote = 36;
 int currentWaveform = 0;
 
 //Store the waveform types in an array
 int waveTypes[5] = { WAVEFORM_SAWTOOTH, WAVEFORM_SINE, WAVEFORM_PULSE, WAVEFORM_TRIANGLE, WAVEFORM_SQUARE };
+
 //a variable for shifting the position within the waveTypes[] array
 int currentWaveformIndex = 0;
 
