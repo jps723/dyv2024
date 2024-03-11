@@ -55,8 +55,8 @@ int currentWaveformIndex = 0;
 void setup() {
   Serial.begin(9600);
   AudioMemory(10);
-  pinMode(36, INPUT);
-  pinMode(37, INPUT);
+  pinMode(36, INPUT_PULLDOWN);
+  pinMode(37, INPUT_PULLDOWN);
 
   sgtl5000_1.enable();
   sgtl5000_1.volume(.5);
@@ -147,5 +147,5 @@ void playNote() {
   }
   if (envelopeTrigger.fallingEdge()) {
     envelope1.noteOff();
-  }
-}
+  } 
+}   
