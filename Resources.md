@@ -37,3 +37,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Class 5 - Intermediate Sound Design/Sampling/Intro to Theory](https://docs.google.com/presentation/d/1VWrumGnpVqd9XsqTVrJ6Gt85X7Y_CdbYwDz6NV9_p90/edit?usp=sharing)
 
 [Class 6 - Music Theory & Modularity (Continued)](https://docs.google.com/presentation/d/1eqCoFlJQixJswkbWQ4IZnfcuF352OTSX2fz0pqAdE3o/edit?usp=sharing)
+
+[Class 8 - Intro to Eurorack Hardware Specifications](https://docs.google.com/presentation/d/1FMDeHzPcB0e8AZzKNqfeGnR7hRHGrNW0yph2eRp06ko/edit?usp=sharing)

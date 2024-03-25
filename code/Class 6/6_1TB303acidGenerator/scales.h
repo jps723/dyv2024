@@ -2,7 +2,7 @@
 
 int scales[7][8] = {
   //Ionian (Major) Scale = whole, whole, half, whole, whole, whole, half
-  {0,, 2, 4, 5, 7, 9, 11, 12},
+  {0, 2, 4, 5, 7, 9, 11, 12},
 
   // Dorian Scale = whole, half, whole, whole, whole,  half, whole
   {0, 2, 3, 5, 7, 9, 10, 12},
