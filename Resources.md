@@ -39,3 +39,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Class 6 - Music Theory & Modularity (Continued)](https://docs.google.com/presentation/d/1eqCoFlJQixJswkbWQ4IZnfcuF352OTSX2fz0pqAdE3o/edit?usp=sharing)
 
 [Class 8 - Intro to Eurorack Hardware Specifications](https://docs.google.com/presentation/d/1FMDeHzPcB0e8AZzKNqfeGnR7hRHGrNW0yph2eRp06ko/edit?usp=sharing)
+
+[Class 9 - Eurorack Outputs - Control Voltage / Gates / DACs / Signal Scaling](https://docs.google.com/presentation/d/1EHQNC-loGFqUiQXHunMmSipkzUJReo5eMl0qTGyNNno/edit?usp=sharing)
