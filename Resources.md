@@ -14,6 +14,8 @@ description: A broad list of resources
 
 [Synth Library NYC](https://synthlibrarynyc.org/) - Synth loan library cofounded by ITPer, [Cy X!](https://cyberwitch666.com/)
 
+[ITP Physical Computing Site](https://itp.nyu.edu/physcomp/) - A Teensy is first and foremost a microcontroller - All of the materials here are helpful to revisit 
+
 # Hardware
 
 Relatively cheap tools that have served me well for prototyping. This list will grow as we advance through the semester.

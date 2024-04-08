@@ -25,6 +25,6 @@ void setup() {
 
 void loop() {
   lfoRate = map(analogRead(A15), 0, 1023, 0, 40);
-    waveform1.frequency(lfoRate);
+    waveform1.frequency(440);
   
 }

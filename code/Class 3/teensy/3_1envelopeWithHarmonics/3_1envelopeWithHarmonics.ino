@@ -25,8 +25,8 @@ AudioConnection patchCord7(envelope1, 0, i2s1, 1);
 AudioControlSGTL5000 sgtl5000_1;  //xy=881,461
 // GUItool: end automatically generated code
 
-Bounce waveCycleButton = Bounce(36, 15);
-Bounce envelopeTrigger = Bounce(37, 15);
+Bounce waveCycleButton = Bounce(18, 15);
+Bounce envelopeTrigger = Bounce(19, 15);
 
 float amp = 1.0;
 int freq = 220;
@@ -45,8 +45,9 @@ int currentWaveformIndex = 0;
 void setup() {
   Serial.begin(9600);
   AudioMemory(10);
-  pinMode(36, INPUT);
-  pinMode(37, INPUT);
+  pinMode(18, INPUT);
+  pinMode(19, INPUT);
+  pinMode(20, INPUT);
 
   sgtl5000_1.enable();
   sgtl5000_1.volume(.5);
@@ -82,10 +83,10 @@ void loop() {
   envelopeTrigger.update();
 
   //read the pot positions and convert to a floating point b/w 0.0 and 1.0
-  attackInMilliseconds = map(analogRead(A17), 0, 1023, 0, 7500) - 180;
-  decayInMilliseconds = map(analogRead(A16), 0, 1023, 0, 10000);
-  sustainInAmplitude = (float)analogRead(A15) / 1023;
-  releaseInMilliseconds = map(analogRead(A14), 0, 1023, 0, 10000);
+  attackInMilliseconds = map(analogRead(A0), 0, 1023, 0, 7500) - 180;
+  decayInMilliseconds = map(analogRead(A1), 0, 1023, 0, 10000);
+  sustainInAmplitude = (float)analogRead(A2) / 1023;
+  releaseInMilliseconds = map(analogRead(A3), 0, 1023, 0, 10000);
 
   Serial.println(attackInMilliseconds);
 
