@@ -13,7 +13,7 @@ Apr 1
 ### Homework:
 
 Watch:  
-[Christine Sun Kim](https://www.youtube.com/watch?v=mqJA0SZm9zI&t=0s)
+[Christine Sun Kim](https://www.youtube.com/watch?v=mqJA0SZm9zI&t=0s)  
 [Carsten Nicolai (Alva Noto)](https://www.youtube.com/watch?v=zCBIKXFrfNA&t=0s)
 
 Continue with your work from last week and look to the alternate prompts that you haven't yet explored. I'll re-share them below (and I added one for the DAC). Work with, and talk to each other, even if you're not collaborating as partners. Write a blog post. It will help you! 
