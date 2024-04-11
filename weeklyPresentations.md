@@ -24,7 +24,7 @@ Feb 12: [Electrosmith Daisy](https://docs.google.com/presentation/d/1HlKTLBwrDi3
 Feb 26: [RNBO](https://docs.google.com/presentation/d/1y8V78RUKOmZPDfYqE4_pxU2ms5fg0icwUwiqw56kyJ0/edit#slide=id.p) - Jess  
 Mar 4: [Bela Audio Board](https://docs.google.com/presentation/d/1FLu9MHc-DCVwDXpv4dc4TbUmKYpLBQV2qnIBnPoZJMQ/edit#slide=id.p) - Tres  
 Mar 25: [Ornament & Crime](https://www.priyankamakin.com/blog/itp-designing-your-synth-voice-ornament-and-crime) - Priyanka  
-Apr 8: OpenWareLab (OWL) Devices - Michelle  
+Apr 8: [OpenWareLab (OWL)](https://docs.google.com/presentation/d/1ABPDZt-Znwp73vwleTpRg4YNh92jJ3S6piceFDSWJ4c/edit#slide=id.p) - Michelle  
 Apr 15: Monome Teletype - Cindy  
 Apr 22:Furnace - Zi
 
