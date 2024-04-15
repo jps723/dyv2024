@@ -58,8 +58,11 @@ void setup() {
 
 void loop() {
   //map a knob to the min/max values for the DAC 
-    float val = map(analogRead(A16), 0, 1023, 5, 32767);
+  int value = analogRead(A16);
+  //The mapping starts at 5 instead of 0, to ensure that 
+  //there's always a minimum output voltage, and to account for noise.
+  //32767 = 15bit resolution
+    float val = map(value, 0, 1023, 5, 32767);
     //Write the knob position to the DAC for a constant voltage
     writeDAC(val);
-  
 }

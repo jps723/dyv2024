@@ -54,8 +54,6 @@ void setup() {
 
   Serial.begin(9600);
   AudioMemory(100);
-  sgtl5000_1.enable();
-  sgtl5000_1.volume(.6);
 
   dc1.amplitude(1.0);
   waveformMod1.frequency(55);
@@ -113,10 +111,10 @@ void playSequence() {
   Serial.print(" || Frequency: ");
   Serial.println(mtof.toFrequency(rootScaled[0][randomVal]));
 
-  int tempo = map(analogRead(A14), 0, 1023, 1000, 100);
-  int filterAttackTime = map(analogRead(A15), 0, 1023, 1, 170);
-  int envelopeReleaseTime = map(analogRead(A17), 0, 1023, 1, 220);
-  float filterResonance = map((float)analogRead(A16), 0, 1023, 0, 5);
+  int tempo = 200;
+  int filterAttackTime = 1;
+  int envelopeReleaseTime = 10;
+  float filterResonance = 0;
 
   //set all of the parameters for the note
   envelope1.attack(0);
