@@ -47,3 +47,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Class 10 - Non-Audio Applications](https://docs.google.com/presentation/d/1_XYegB6QAA-pSJHGXVxRbgSk-jBAqj-m_iNt5atkT9I/edit?usp=sharing)
 
 [Class 11 - Power Planning & Signal Scaling](https://docs.google.com/presentation/d/1aofjnkhiF46T2FD_N9_r0xAZezpIG4-0MQjG6R_sq9M/edit?usp=sharing)
+
+[Class 12 - Analog Utilities: LM13700](https://docs.google.com/presentation/d/1m6dQZj57Ap_wQIAYXHixcKT3nEvHwSDki7l_5kZcZU8/edit?usp=sharing)

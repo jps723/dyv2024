@@ -25,7 +25,7 @@ Feb 26: [RNBO](https://docs.google.com/presentation/d/1y8V78RUKOmZPDfYqE4_pxU2ms
 Mar 4: [Bela Audio Board](https://docs.google.com/presentation/d/1FLu9MHc-DCVwDXpv4dc4TbUmKYpLBQV2qnIBnPoZJMQ/edit#slide=id.p) - Tres  
 Mar 25: [Ornament & Crime](https://www.priyankamakin.com/blog/itp-designing-your-synth-voice-ornament-and-crime) - Priyanka  
 Apr 8: [OpenWareLab (OWL)](https://docs.google.com/presentation/d/1ABPDZt-Znwp73vwleTpRg4YNh92jJ3S6piceFDSWJ4c/edit#slide=id.p) - Michelle  
-Apr 15: Monome Teletype - Cindy  
+Apr 15: [Monome Teletype](https://discord.com/channels/@me/1205275331678838844/1231070580229541941) - Cindy  
 Apr 22:Furnace - Zi
 
 # Alternative Topics:
