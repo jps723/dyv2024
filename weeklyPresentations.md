@@ -26,7 +26,7 @@ Mar 4: [Bela Audio Board](https://docs.google.com/presentation/d/1FLu9MHc-DCVwDX
 Mar 25: [Ornament & Crime](https://www.priyankamakin.com/blog/itp-designing-your-synth-voice-ornament-and-crime) - Priyanka  
 Apr 8: [OpenWareLab (OWL)](https://docs.google.com/presentation/d/1ABPDZt-Znwp73vwleTpRg4YNh92jJ3S6piceFDSWJ4c/edit#slide=id.p) - Michelle  
 Apr 15: [Monome Teletype](https://discord.com/channels/@me/1205275331678838844/1231070580229541941) - Cindy  
-Apr 22:Furnace - Zi
+Apr 22: [Furnace](https://github.com/tildearrow/furnace) - Zi
 
 # Alternative Topics:
 

@@ -20,6 +20,10 @@ description: A broad list of resources
 
 Relatively cheap tools that have served me well for prototyping. This list will grow as we advance through the semester.
 
+[Resistor Pack](https://www.amazon.com/EEEEE-Resistor-Assortment-Electrical-Industrial/dp/B09PLNPX3P/) - Very well compartmentalized and labeled kit.
+
+[Capacitor Pack](https://www.amazon.com/EEEEE-0-1uF%EF%BC%8D2200uF-Individual-Electrolytic-Assortment/dp/B0CFV5YL3G/) - Very well compartmentalized and labeled kit.
+
 [AWG #22 Pre-formed jumper wires](https://www.amazon.com/Elenco-Piece-Pre-formed-Jumper-Wire/dp/B0002H7AIG/) - These are a lot less flimsy than AWG #24.
 
 [Test Leads](https://www.amazon.com/Goupchn-Silicone-Multimeter-Minigrabber-Electronic/dp/B0852KRNPP/) - Sometimes alligator clips are too bulky. These are great.
@@ -49,3 +53,5 @@ Relatively cheap tools that have served me well for prototyping. This list will 
 [Class 11 - Power Planning & Signal Scaling](https://docs.google.com/presentation/d/1aofjnkhiF46T2FD_N9_r0xAZezpIG4-0MQjG6R_sq9M/edit?usp=sharing)
 
 [Class 12 - Analog Utilities: LM13700](https://docs.google.com/presentation/d/1m6dQZj57Ap_wQIAYXHixcKT3nEvHwSDki7l_5kZcZU8/edit?usp=sharing)
+
+[Class 13 - Play Testing / Final Planning & Other Stuff](https://docs.google.com/presentation/d/10GgN0gk3RQ-n4bI4d4sKwZgKKP_Pcvmx2QVvBseHMy4/edit?usp=sharing)
