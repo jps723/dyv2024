@@ -41,7 +41,7 @@ void setup() {
 void loop() {
   //wav files must be 44100 sample rate, 16 or 8 bit
   if (!(playSdWav1.isPlaying())) {
-    playSdWav1.play("RhythmVariation7_aokiTakamasa_RV8.WAV");
+    playSdWav1.play("nytrack.WAV");
     //playSdWav1.play("unfoldingMechanism_Vaetxh_libetTones.WAV");
    //playSdWav1.play("revans_Sora.WAV");
     //playSdWav1.play("piano.wav");
