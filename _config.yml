@@ -32,8 +32,6 @@ aux_links:
   # Code Repo:
   #   - "https://github.com/jps723/dyv2024/tree/main/code"
 footer_content:
-  Test:
-    - "https://example.com"
 
 # Collections for website data
 collections:
