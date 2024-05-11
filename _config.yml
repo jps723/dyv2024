@@ -31,7 +31,9 @@ aux_links:
     - "https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUZXeFYyWGh2VlkyfGRlZmF1bHR8MTA2N2Y2YTdiMWYwOGMyMzYyNmVmYjZmZjNlNWJhNzg"
   # Code Repo:
   #   - "https://github.com/jps723/dyv2024/tree/main/code"
-# footer_content:
+footer_content:
+  Test:
+    - "https://example.com"
 
 # Collections for website data
 collections:
